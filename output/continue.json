@@ -2,7 +2,7 @@
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_malicious-sites/domains.list": {
         "down": 0,
         "invalid": 0,
-        "tested": 1,
-        "up": 1
+        "tested": 0,
+        "up": 0
     }
 }
