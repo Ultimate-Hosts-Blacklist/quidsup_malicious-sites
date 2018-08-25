@@ -7,6 +7,6 @@
     "last_test": "1535120657",
     "list_name": "domains.list",
     "name": "Domain Status Testing for Ultimate Hosts Blacklist",
-    "raw_link": "https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt",
+    "raw_link": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt",
     "stable": "0"
 }
