@@ -1,12 +1,14 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_malicious-sites/domains.list": {
-        "1539615861": [
+        "1539960999": [
             "apple-safari.info",
             "baidu.om",
             "com-internet.online",
             "davesbestdeals.com",
             "gotoout.ml",
             "jianbaimei.com.cname.yunjiasu-cdn.net",
+            "lhzbdvm.com",
+            "onlinesurveydaily.com",
             "safari-code.net"
         ],
         "to_test": []
