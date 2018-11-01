@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_malicious-sites/domains.list": {
-        "1540749441": [
-            "1kdailyprofit.biz",
+        "1541084979": [
             "apple-safari.info",
             "baidu.om",
             "com-internet.online",
@@ -9,13 +8,10 @@
             "gonirola.com",
             "gotoout.ml",
             "jianbaimei.com.cname.yunjiasu-cdn.net",
-            "jldnphwwu.bid",
             "minaraca.com",
             "onlinesurveydaily.com",
             "retreatoftheretreat.site",
-            "safari-code.net",
-            "safedownload.co",
-            "servicekgbfit.us"
+            "safari-code.net"
         ],
         "to_test": []
     }
