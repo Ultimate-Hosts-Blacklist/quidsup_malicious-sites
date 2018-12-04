@@ -95,6 +95,11 @@
             "expiration_date": "21-oct-2020",
             "state": "future"
         },
+        "easy-download.co": {
+            "epoch": "1592179200",
+            "expiration_date": "15-jun-2020",
+            "state": "future"
+        },
         "edatasales.com": {
             "epoch": "1558915200",
             "expiration_date": "27-may-2019",
