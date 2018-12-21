@@ -76,9 +76,9 @@
             "state": "future"
         },
         "consensu.org": {
-            "epoch": "1545091200",
-            "expiration_date": "18-dec-2018",
-            "state": "past"
+            "epoch": "1576627200",
+            "expiration_date": "18-dec-2019",
+            "state": "future"
         },
         "cookiereports.com": {
             "epoch": "1555977600",
