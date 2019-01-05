@@ -273,7 +273,7 @@
         "reliablesurfingext.biz": {
             "epoch": "1546473600",
             "expiration_date": "03-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "safedownload.co": {
             "epoch": "1568246400",
