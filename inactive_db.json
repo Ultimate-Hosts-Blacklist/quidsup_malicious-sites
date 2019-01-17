@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_malicious-sites/domains.list": {
-        "1547480032": [
+        "1547740596": [
             "apple-safari.info",
             "baidu.om",
             "davesbestdeals.com",
@@ -11,7 +11,8 @@
             "minaraca.com",
             "onlinesurveydaily.com",
             "retreatoftheretreat.site",
-            "safari-code.net"
+            "safari-code.net",
+            "servicekgbfit.us"
         ],
         "to_test": []
     }
