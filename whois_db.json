@@ -275,6 +275,11 @@
             "expiration_date": "03-jan-2019",
             "state": "past"
         },
+        "s4yxaqyq95.com": {
+            "epoch": "1563580800",
+            "expiration_date": "20-jul-2019",
+            "state": "future"
+        },
         "safedownload.co": {
             "epoch": "1568246400",
             "expiration_date": "12-sep-2019",
