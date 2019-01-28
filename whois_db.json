@@ -60,6 +60,11 @@
             "expiration_date": "05-oct-2019",
             "state": "future"
         },
+        "bestadbid.com": {
+            "epoch": "1562716800",
+            "expiration_date": "10-jul-2019",
+            "state": "future"
+        },
         "biosagentplus.com": {
             "epoch": "1596585600",
             "expiration_date": "05-aug-2020",
@@ -68,6 +73,11 @@
         "bitleyco.cc": {
             "epoch": "1564358400",
             "expiration_date": "29-jul-2019",
+            "state": "future"
+        },
+        "booe.pro": {
+            "epoch": "1573689600",
+            "expiration_date": "14-nov-2019",
             "state": "future"
         },
         "bqdqnmwwnz.com": {
@@ -118,6 +128,11 @@
         "ffdns.net": {
             "epoch": "1565568000",
             "expiration_date": "12-aug-2019",
+            "state": "future"
+        },
+        "freecalculation.com": {
+            "epoch": "1561075200",
+            "expiration_date": "21-jun-2019",
             "state": "future"
         },
         "gettop.info": {
