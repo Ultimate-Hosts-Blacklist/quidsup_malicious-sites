@@ -235,6 +235,11 @@
             "expiration_date": "18-jul-2019",
             "state": "future"
         },
+        "luckypushh.com": {
+            "epoch": "1580342400",
+            "expiration_date": "30-jan-2020",
+            "state": "future"
+        },
         "madmimi.com": {
             "epoch": "1700438400",
             "expiration_date": "20-nov-2023",
