@@ -390,6 +390,11 @@
             "expiration_date": "30-may-2019",
             "state": "future"
         },
+        "xyz.com.br": {
+            "epoch": "1560729600",
+            "expiration_date": "17-jun-2019",
+            "state": "future"
+        },
         "yourfirstcheapshop.com": {
             "epoch": "1557187200",
             "expiration_date": "07-may-2019",
