@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_malicious-sites/domains.list": {
-        "1551993497": [
+        "1552087652": [
             "apple-safari.info",
             "baidu.om",
             "davesbestdeals.com",
@@ -9,7 +9,6 @@
             "jldnphwwu.bid",
             "minaraca.com",
             "onlinesurveydaily.com",
-            "reliablesurfingext.biz",
             "retreatoftheretreat.site",
             "s4yxaqyq95.fuk",
             "safari-code.net",
@@ -33,7 +32,6 @@
             "www.minaraca.com",
             "www.myxns.cn",
             "www.onlinesurveydaily.com",
-            "wwwp.link",
             "www.reliablesurfingext.biz",
             "www.retreatoftheretreat.site",
             "www.safedownload.co",
@@ -43,7 +41,8 @@
             "www.trumpetedextremes.com",
             "www.wbidder.online",
             "www.wwwp.link",
-            "www.zorwrite.com"
+            "www.zorwrite.com",
+            "wwwp.link"
         ],
         "to_test": []
     }
