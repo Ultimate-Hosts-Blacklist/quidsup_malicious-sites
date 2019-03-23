@@ -45,6 +45,11 @@
             "expiration_date": "15-jan-2020",
             "state": "future"
         },
+        "amazonco.uk": {
+            "epoch": "1569024000",
+            "expiration_date": "21-sep-2019",
+            "state": "future"
+        },
         "andr-security.com": {
             "epoch": "1577491200",
             "expiration_date": "28-dec-2019",
@@ -218,6 +223,11 @@
         "iyfnzgb.com": {
             "epoch": "1572998400",
             "expiration_date": "06-nov-2019",
+            "state": "future"
+        },
+        "jackhemmingway.com": {
+            "epoch": "1621123200",
+            "expiration_date": "16-may-2021",
             "state": "future"
         },
         "jesus2020.com": {
