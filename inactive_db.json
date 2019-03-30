@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/quidsup_malicious-sites/domains.list": {
-        "1553722426": [
+        "1553964593": [
             "apple-safari.info",
             "baidu.om",
             "davesbestdeals.com",
@@ -14,6 +14,7 @@
             "s4yxaqyq95.fuk",
             "safari-code.net",
             "servicekgbfit.us",
+            "wixanalyticssitebuildertool.site",
             "www.1kdailyprofit.biz",
             "www.ad2up.com",
             "www.andr-security.com",
@@ -21,6 +22,7 @@
             "www.bestadbid.com",
             "www.bitleyco.cc",
             "www.booe.pro",
+            "www.boudja.com",
             "www.epicunitscan.info",
             "www.freecalculation.com",
             "www.globaloffers.link",
@@ -34,6 +36,7 @@
             "www.myxns.cn",
             "www.onlinesurveydaily.com",
             "www.reliablesurfingext.biz",
+            "www.rensovetors.info",
             "www.retreatoftheretreat.site",
             "www.safedownload.co",
             "www.servicekgbfit.us",
@@ -41,11 +44,10 @@
             "www.tourtodaylaboratory.com",
             "www.trumpetedextremes.com",
             "www.wbidder.online",
+            "www.wixanalyticssitebuildertool.site",
             "www.wwwp.link",
             "www.zorwrite.com",
-            "wwwp.link",
-            "www.boudja.com",
-            "www.rensovetors.info"
+            "wwwp.link"
         ],
         "to_test": []
     }
