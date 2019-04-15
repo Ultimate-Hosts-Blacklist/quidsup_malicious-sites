@@ -430,6 +430,11 @@
             "expiration_date": "02-apr-2020",
             "state": "future"
         },
+        "szgl120.com": {
+            "epoch": "1576540800",
+            "expiration_date": "17-dec-2019",
+            "state": "future"
+        },
         "taosha.cc": {
             "epoch": "1558915200",
             "expiration_date": "27-may-2019",
