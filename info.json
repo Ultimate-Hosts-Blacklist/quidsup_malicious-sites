@@ -3,7 +3,7 @@
     "clean_original": "1",
     "currently_under_test": "0",
     "days_until_next_test": "2",
-    "last_test": "1555346042",
+    "last_test": "1555519728",
     "name": "quidsup_malicious-sites",
     "raw_link": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt",
     "stable": "1"
