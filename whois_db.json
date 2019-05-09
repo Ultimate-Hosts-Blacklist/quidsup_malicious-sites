@@ -80,6 +80,11 @@
             "expiration_date": "10-jul-2019",
             "state": "future"
         },
+        "bestupdatemeta.com": {
+            "epoch": "1574553600",
+            "expiration_date": "24-nov-2019",
+            "state": "future"
+        },
         "biosagentplus.com": {
             "epoch": "1596585600",
             "expiration_date": "05-aug-2020",
@@ -133,6 +138,11 @@
         "donation-tools.org": {
             "epoch": "1603238400",
             "expiration_date": "21-oct-2020",
+            "state": "future"
+        },
+        "drivethelife.com": {
+            "epoch": "1589328000",
+            "expiration_date": "13-may-2020",
             "state": "future"
         },
         "easy-download.co": {
