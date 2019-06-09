@@ -1,7 +1,10 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "last_test": 1557421333,
+    "end_datetime": "Sun Jun  9 16:48:23 2019",
+    "end_epoch": 1560098903.440792,
     "name": "quidsup_malicious-sites",
-    "raw_link": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt"
+    "raw_link": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt",
+    "start_datetime": "Sun Jun  9 16:47:29 2019",
+    "start_epoch": 1560098849.097987
 }
