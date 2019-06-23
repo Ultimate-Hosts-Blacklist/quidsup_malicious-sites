@@ -170,8 +170,8 @@
         "state": "future"
     },
     "freecalculation.com": {
-        "epoch": "1561075200",
-        "expiration_date": "21-jun-2019",
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "gettop.info": {
@@ -545,8 +545,8 @@
         "state": "future"
     },
     "zorwrite.com": {
-        "epoch": "1561248000",
+        "epoch": 1561248000,
         "expiration_date": "23-jun-2019",
-        "state": "future"
+        "state": "past"
     }
 }
