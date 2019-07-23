@@ -325,8 +325,8 @@
         "state": "future"
     },
     "mysearch.com": {
-        "epoch": "1563753600",
-        "expiration_date": "22-jul-2019",
+        "epoch": 1626912000,
+        "expiration_date": "22-jul-2021",
         "state": "future"
     },
     "myxns.cn": {
