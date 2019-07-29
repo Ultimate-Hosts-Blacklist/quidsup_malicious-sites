@@ -10,9 +10,9 @@
         "state": "future"
     },
     "abcd7777.com": {
-        "epoch": 1564185600,
-        "expiration_date": "27-jul-2019",
-        "state": "past"
+        "epoch": 1595808000,
+        "expiration_date": "27-jul-2020",
+        "state": "future"
     },
     "abcdnf.com": {
         "epoch": "1568678400",
@@ -95,8 +95,8 @@
         "state": "future"
     },
     "bitleyco.cc": {
-        "epoch": "1564358400",
-        "expiration_date": "29-jul-2019",
+        "epoch": 1595980800,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "booe.pro": {
