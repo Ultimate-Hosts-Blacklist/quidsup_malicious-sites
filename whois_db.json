@@ -334,6 +334,16 @@
         "expiration_date": "04-jun-2020",
         "state": "future"
     },
+    "nextyourcontent.com": {
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
+    "oaqjwapqdho.com": {
+        "epoch": 1588982400,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    },
     "oc.uk": {
         "epoch": "1750809600",
         "expiration_date": "25-jun-2025",
@@ -367,6 +377,11 @@
     "prosoftsolution.in": {
         "epoch": 1591833600,
         "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
+    "proudflex.org": {
+        "epoch": 1594598400,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "prugskh.com": {
@@ -522,6 +537,11 @@
     "wbidder.online": {
         "epoch": "1601856000",
         "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
+    "wcomhost.com": {
+        "epoch": 1863993600,
+        "expiration_date": "25-jan-2029",
         "state": "future"
     },
     "wixanalyticssitebuildertool.site": {
