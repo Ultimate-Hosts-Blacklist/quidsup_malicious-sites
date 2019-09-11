@@ -574,6 +574,11 @@
         "expiration_date": "23-may-2020",
         "state": "future"
     },
+    "sendmepush.com": {
+        "epoch": 1589068800,
+        "expiration_date": "10-may-2020",
+        "state": "future"
+    },
     "servicekgbfit.us": {
         "epoch": "1543104000",
         "expiration_date": "25-nov-2018",
@@ -705,8 +710,8 @@
         "state": "future"
     },
     "wwu-natwiest.com": {
-        "epoch": "1568160000",
-        "expiration_date": "11-sep-2019",
+        "epoch": 1599782400,
+        "expiration_date": "11-sep-2020",
         "state": "future"
     },
     "wwwp.link": {
