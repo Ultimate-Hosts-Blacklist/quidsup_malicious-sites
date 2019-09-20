@@ -94,6 +94,11 @@
         "expiration_date": "05-oct-2019",
         "state": "future"
     },
+    "barenudism.com": {
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
+        "state": "future"
+    },
     "best2018games.com": {
         "epoch": 1593907200,
         "expiration_date": "05-jul-2020",
@@ -437,6 +442,11 @@
     "onlinesurveydaily.com": {
         "epoch": "1587686400",
         "expiration_date": "24-apr-2020",
+        "state": "future"
+    },
+    "osdrivers.win": {
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
         "state": "future"
     },
     "pbterra.com": {
