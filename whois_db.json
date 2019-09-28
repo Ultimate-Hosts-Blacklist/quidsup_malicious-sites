@@ -65,8 +65,8 @@
         "state": "future"
     },
     "amazonco.uk": {
-        "epoch": "1569024000",
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "analyticsonwebtrack.site": {
@@ -267,6 +267,11 @@
     "hanstrackr.com": {
         "epoch": "1804550400",
         "expiration_date": "09-mar-2027",
+        "state": "future"
+    },
+    "healthandfitnessus.com": {
+        "epoch": 1595289600,
+        "expiration_date": "21-jul-2020",
         "state": "future"
     },
     "hemailaccessonline.com": {
