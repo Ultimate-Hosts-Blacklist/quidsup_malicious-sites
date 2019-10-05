@@ -90,9 +90,9 @@
         "state": "future"
     },
     "b3stm0b1l3.com": {
-        "epoch": "1570233600",
+        "epoch": 1570233600,
         "expiration_date": "05-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "barenudism.com": {
         "epoch": 1575504000,
