@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 1,
+        "builds": 2,
         "counter": {
-            "down": 21,
+            "down": 42,
             "invalid": 0,
-            "tested": 208,
-            "up": 187
+            "tested": 302,
+            "up": 260
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Fri Oct  4 21:46:53 2019",
     "end_epoch": 1570225613.103322,
-    "last_autosave_datetime": "Sat Oct  5 12:44:42 2019",
-    "last_autosave_epoch": 1570279482.197821,
+    "last_autosave_datetime": "Sat Oct  5 16:01:20 2019",
+    "last_autosave_epoch": 1570291280.172623,
     "name": "quidsup_malicious-sites",
     "previous_stats": {
         "builds": 5,
