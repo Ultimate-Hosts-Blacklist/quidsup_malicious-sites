@@ -259,7 +259,9 @@
         "advmob.cn",
         "www.minisrclink.cool",
         "zorwrite.com",
-        "www.advmob.cn"
+        "www.advmob.cn",
+        "xyz.com.br",
+        "www.xyz.com.br"
     ],
     "INACTIVE": [
         "www.luckypushh.com",
@@ -303,6 +305,23 @@
         "www.jldnphwwu.bid",
         "jldnphwwu.bid",
         "www.intimglobus.ru",
-        "intimglobus.ru"
+        "intimglobus.ru",
+        "minaraca.com",
+        "www.minaraca.com",
+        "reliablesurfingext.biz",
+        "servicekgbfit.us",
+        "www.servicekgbfit.us",
+        "www.reliablesurfingext.biz",
+        "baidu.om",
+        "www.baidu.om",
+        "www.changemind.monster",
+        "www.roughted.com",
+        "roughted.com",
+        "changemind.monster",
+        "www.wwwp.link",
+        "wwwp.link"
+    ],
+    "INVALID": [
+        "s4yxaqyq95.fuk"
     ]
 }
