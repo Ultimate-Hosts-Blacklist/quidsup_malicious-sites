@@ -256,7 +256,8 @@
         "www.mysearch.com",
         "www.xyz.com.br",
         "xyz.com.br",
-        "wbidder.online"
+        "wbidder.online",
+        "zorwrite.com"
     ],
     "INACTIVE": [
         "www.rensovetors.info",
@@ -301,6 +302,26 @@
         "servicekgbfit.us",
         "bitleyco.cc",
         "www.baidu.om",
-        "baidu.om"
+        "baidu.om",
+        "www.jldnphwwu.bid",
+        "www.reliablesurfingext.biz",
+        "jldnphwwu.bid",
+        "reliablesurfingext.biz",
+        "www.intimglobus.ru",
+        "gonirola.com",
+        "www.gonirola.com",
+        "intimglobus.ru",
+        "www.zorwrite.com",
+        "www.wwwp.link",
+        "wwwp.link",
+        "minaraca.com",
+        "www.minaraca.com",
+        "www.changemind.monster",
+        "www.simplebookmark.info",
+        "simplebookmark.info",
+        "changemind.monster"
+    ],
+    "INVALID": [
+        "s4yxaqyq95.fuk"
     ]
 }
