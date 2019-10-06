@@ -258,7 +258,10 @@
         "www.cookiereports.com",
         "zorwrite.com",
         "adfuture.cn",
-        "www.adfuture.cn"
+        "www.adfuture.cn",
+        "bitleyco.cc",
+        "xyz.com.br",
+        "www.xyz.com.br"
     ],
     "INACTIVE": [
         "www.deloplen.com",
@@ -297,6 +300,24 @@
         "www.luckypushh.com",
         "www.zorwrite.com",
         "www.baidu.om",
-        "baidu.om"
+        "baidu.om",
+        "minaraca.com",
+        "www.minaraca.com",
+        "gonirola.com",
+        "www.reliablesurfingext.biz",
+        "www.gonirola.com",
+        "jldnphwwu.bid",
+        "www.jldnphwwu.bid",
+        "reliablesurfingext.biz",
+        "www.wwwp.link",
+        "wwwp.link",
+        "www.changemind.monster",
+        "www.bitleyco.cc",
+        "intimglobus.ru",
+        "www.intimglobus.ru",
+        "changemind.monster"
+    ],
+    "INVALID": [
+        "s4yxaqyq95.fuk"
     ]
 }
