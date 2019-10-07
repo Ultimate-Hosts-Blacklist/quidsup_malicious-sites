@@ -24,7 +24,17 @@
         "expiration_date": "12-mar-2020",
         "state": "future"
     },
+    "adfuture.cn": {
+        "epoch": 1631404800,
+        "expiration_date": "12-sep-2021",
+        "state": "future"
+    },
     "adsunflower.com": {
+        "epoch": 1631404800,
+        "expiration_date": "12-sep-2021",
+        "state": "future"
+    },
+    "advmob.cn": {
         "epoch": 1631404800,
         "expiration_date": "12-sep-2021",
         "state": "future"
@@ -82,6 +92,11 @@
     "consensu.org": {
         "epoch": 1576627200,
         "expiration_date": "18-dec-2019",
+        "state": "future"
+    },
+    "cookiereports.com": {
+        "epoch": 1587600000,
+        "expiration_date": "23-apr-2020",
         "state": "future"
     },
     "cpm20.com": {
@@ -189,6 +204,11 @@
         "expiration_date": "06-nov-2019",
         "state": "future"
     },
+    "jesus2020.com": {
+        "epoch": 1571529600,
+        "expiration_date": "20-oct-2019",
+        "state": "future"
+    },
     "lhzbdvm.com": {
         "epoch": 1571788800,
         "expiration_date": "23-oct-2019",
@@ -202,6 +222,11 @@
     "luckypushh.com": {
         "epoch": 1580342400,
         "expiration_date": "30-jan-2020",
+        "state": "future"
+    },
+    "mapsgalaxy.com": {
+        "epoch": 1630195200,
+        "expiration_date": "29-aug-2021",
         "state": "future"
     },
     "modelwork.org": {
@@ -319,6 +344,11 @@
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
+    "rgvqcsxqge.com": {
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
+        "state": "future"
+    },
     "safedownload.co": {
         "epoch": 1568246400,
         "expiration_date": "12-sep-2019",
@@ -334,6 +364,11 @@
         "expiration_date": "13-oct-2023",
         "state": "future"
     },
+    "securesurf.biz": {
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
+        "state": "future"
+    },
     "styleszelife.com": {
         "epoch": 1586736000,
         "expiration_date": "13-apr-2020",
@@ -347,6 +382,11 @@
     "techsuperb.biz": {
         "epoch": 1577232000,
         "expiration_date": "25-dec-2019",
+        "state": "future"
+    },
+    "theseoffersforyou.com": {
+        "epoch": 1598140800,
+        "expiration_date": "23-aug-2020",
         "state": "future"
     },
     "toftothisle.info": {
