@@ -399,6 +399,11 @@
         "expiration_date": "23-may-2020",
         "state": "future"
     },
+    "sendmepush.com": {
+        "epoch": 1589068800,
+        "expiration_date": "10-may-2020",
+        "state": "future"
+    },
     "styleszelife.com": {
         "epoch": 1586736000,
         "expiration_date": "13-apr-2020",
@@ -482,6 +487,11 @@
     "xn--gmail-bgd.com": {
         "epoch": 1590796800,
         "expiration_date": "30-may-2020",
+        "state": "future"
+    },
+    "xyz.com.br": {
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
         "state": "future"
     },
     "yourfirstcheapshop.com": {
