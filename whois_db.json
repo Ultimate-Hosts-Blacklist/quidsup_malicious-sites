@@ -139,6 +139,11 @@
         "expiration_date": "29-mar-2020",
         "state": "future"
     },
+    "digitaloptout.com": {
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
     "donation-tools.org": {
         "epoch": 1603238400,
         "expiration_date": "21-oct-2020",
@@ -197,6 +202,11 @@
     "gmil.com": {
         "epoch": 1601424000,
         "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
+    "googe.com": {
+        "epoch": 1822348800,
+        "expiration_date": "01-oct-2027",
         "state": "future"
     },
     "googele.com": {
@@ -322,6 +332,11 @@
     "oaqjwapqdho.com": {
         "epoch": 1588982400,
         "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "oc.uk": {
+        "epoch": 1750809600,
+        "expiration_date": "25-jun-2025",
         "state": "future"
     },
     "onlineformfinder.com": {
@@ -539,6 +554,12 @@
         "expiration_date": "07-may-2020",
         "state": "future"
     },
+    "zorwrite.com": {
+        "epoch": 1592870400,
+        "expiration_date": "23-jun-2020",
+        "state": "future"
+    }
+} },
     "zorwrite.com": {
         "epoch": 1592870400,
         "expiration_date": "23-jun-2020",
