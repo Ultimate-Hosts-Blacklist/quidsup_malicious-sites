@@ -189,6 +189,11 @@
         "expiration_date": "29-aug-2021",
         "state": "future"
     },
+    "myxns.cn": {
+        "epoch": 1591228800,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
     "nextyourcontent.com": {
         "epoch": 1593820800,
         "expiration_date": "04-jul-2020",
@@ -239,6 +244,11 @@
         "expiration_date": "13-jul-2020",
         "state": "future"
     },
+    "prugskh.com": {
+        "epoch": 1605657600,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
     "prugskh.net": {
         "epoch": 1605657600,
         "expiration_date": "18-nov-2020",
@@ -269,6 +279,11 @@
         "expiration_date": "12-sep-2019",
         "state": "past"
     },
+    "sendmepush.com": {
+        "epoch": 1589068800,
+        "expiration_date": "10-may-2020",
+        "state": "future"
+    },
     "solvusoft.com": {
         "epoch": 1590278400,
         "expiration_date": "24-may-2020",
@@ -292,6 +307,11 @@
     "theseoffersforyou.com": {
         "epoch": 1598140800,
         "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
+    "tourtodaylaboratory.com": {
+        "epoch": 1599350400,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "trumpetedextremes.com": {
