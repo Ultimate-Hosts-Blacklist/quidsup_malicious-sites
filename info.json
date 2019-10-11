@@ -1,10 +1,19 @@
 {
-    "currently_under_test": "0",
+    "current_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 30,
+            "invalid": 0,
+            "tested": 208,
+            "up": 178
+        }
+    },
+    "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Thu Oct 10 01:40:26 2019",
     "end_epoch": 1570671626.742458,
-    "last_autosave_datetime": "Thu Oct 10 00:08:54 2019",
-    "last_autosave_epoch": 1570666134.924559,
+    "last_autosave_datetime": "Fri Oct 11 18:50:54 2019",
+    "last_autosave_epoch": 1570819854.685521,
     "name": "quidsup_malicious-sites",
     "previous_stats": {
         "builds": 2,
@@ -20,6 +29,6 @@
         "whitelisted.list": 251
     },
     "raw_link": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt",
-    "start_datetime": "Wed Oct  9 23:57:36 2019",
-    "start_epoch": 1570665456.322156
+    "start_datetime": "Fri Oct 11 18:39:48 2019",
+    "start_epoch": 1570819188.272995
 }
