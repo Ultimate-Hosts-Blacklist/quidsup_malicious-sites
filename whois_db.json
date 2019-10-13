@@ -59,6 +59,11 @@
         "expiration_date": "12-sep-2021",
         "state": "future"
     },
+    "akamoihd.net": {
+        "epoch": 1579046400,
+        "expiration_date": "15-jan-2020",
+        "state": "future"
+    },
     "amazonco.uk": {
         "epoch": 1600646400,
         "expiration_date": "21-sep-2020",
@@ -74,9 +79,24 @@
         "expiration_date": "11-may-2024",
         "state": "future"
     },
+    "b3stm0b1l3.com": {
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
+    "barenudism.com": {
+        "epoch": 1575504000,
+        "expiration_date": "05-dec-2019",
+        "state": "future"
+    },
     "best2018games.com": {
         "epoch": 1593907200,
         "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
+    "bestadbid.com": {
+        "epoch": 1594339200,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "bestupdatemeta.com": {
@@ -122,6 +142,11 @@
     "cookiereports.com": {
         "epoch": 1587600000,
         "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
+    "cybergateway.net": {
+        "epoch": 1579219200,
+        "expiration_date": "17-jan-2020",
         "state": "future"
     },
     "deloplen.com": {
@@ -189,6 +214,11 @@
         "expiration_date": "14-may-2020",
         "state": "future"
     },
+    "gmai.com": {
+        "epoch": 1766102400,
+        "expiration_date": "19-dec-2025",
+        "state": "future"
+    },
     "gmil.com": {
         "epoch": 1601424000,
         "expiration_date": "30-sep-2020",
@@ -202,6 +232,11 @@
     "googele.com": {
         "epoch": 1668297600,
         "expiration_date": "13-nov-2022",
+        "state": "future"
+    },
+    "hanstrackr.com": {
+        "epoch": 1804550400,
+        "expiration_date": "09-mar-2027",
         "state": "future"
     },
     "healthandfitnessus.com": {
@@ -227,6 +262,11 @@
     "ilo134ulih.com": {
         "epoch": 1591574400,
         "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
+    "imgfarm.com": {
+        "epoch": 1636675200,
+        "expiration_date": "12-nov-2021",
         "state": "future"
     },
     "incluster.com": {
@@ -279,6 +319,11 @@
         "expiration_date": "30-jan-2020",
         "state": "future"
     },
+    "madmimi.com": {
+        "epoch": 1700438400,
+        "expiration_date": "20-nov-2023",
+        "state": "future"
+    },
     "mapsgalaxy.com": {
         "epoch": 1630195200,
         "expiration_date": "29-aug-2021",
@@ -289,9 +334,34 @@
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "modelwork.org": {
+        "epoch": 1581379200,
+        "expiration_date": "11-feb-2020",
+        "state": "future"
+    },
+    "myfood.ltd": {
+        "epoch": 1588809600,
+        "expiration_date": "07-may-2020",
+        "state": "future"
+    },
+    "mysearch.com": {
+        "epoch": 1626912000,
+        "expiration_date": "22-jul-2021",
+        "state": "future"
+    },
     "myxns.cn": {
         "epoch": 1591228800,
         "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
+    "newmayads.com": {
+        "epoch": 1583366400,
+        "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
+    "news-bbc-uk.com": {
+        "epoch": 1589760000,
+        "expiration_date": "18-may-2020",
         "state": "future"
     },
     "nextyourcontent.com": {
@@ -307,6 +377,11 @@
     "oaqjwapqdho.com": {
         "epoch": 1588982400,
         "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "oc.uk": {
+        "epoch": 1750809600,
+        "expiration_date": "25-jun-2025",
         "state": "future"
     },
     "onclickbright.com": {
@@ -335,6 +410,11 @@
         "state": "future"
     },
     "pdn-4.com": {
+        "epoch": 1583712000,
+        "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "pdn-5.com": {
         "epoch": 1583712000,
         "expiration_date": "09-mar-2020",
         "state": "future"
@@ -384,6 +464,11 @@
         "expiration_date": "02-apr-2020",
         "state": "future"
     },
+    "qpdownload.com": {
+        "epoch": 1575936000,
+        "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
     "reimageplus.com": {
         "epoch": 1578009600,
         "expiration_date": "03-jan-2020",
@@ -399,19 +484,49 @@
         "expiration_date": "19-jun-2020",
         "state": "future"
     },
+    "s4yxaqyq95.com": {
+        "epoch": 1595203200,
+        "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
     "safedownload.co": {
         "epoch": 1568246400,
         "expiration_date": "12-sep-2019",
         "state": "past"
+    },
+    "searchnet.com": {
+        "epoch": 1577836800,
+        "expiration_date": "01-jan-2020",
+        "state": "future"
+    },
+    "searchtabnew.com": {
+        "epoch": 1697155200,
+        "expiration_date": "13-oct-2023",
+        "state": "future"
+    },
+    "securesurf.biz": {
+        "epoch": 1590192000,
+        "expiration_date": "23-may-2020",
+        "state": "future"
     },
     "sendmepush.com": {
         "epoch": 1589068800,
         "expiration_date": "10-may-2020",
         "state": "future"
     },
+    "sharkadnetwork.com": {
+        "epoch": 1576108800,
+        "expiration_date": "12-dec-2019",
+        "state": "future"
+    },
     "solvusoft.com": {
         "epoch": 1590278400,
         "expiration_date": "24-may-2020",
+        "state": "future"
+    },
+    "styleszelife.com": {
+        "epoch": 1586736000,
+        "expiration_date": "13-apr-2020",
         "state": "future"
     },
     "surveyrouter.com": {
@@ -492,6 +607,16 @@
     "wwu-natwiest.com": {
         "epoch": 1599782400,
         "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
+    "xn--gmail-bgd.com": {
+        "epoch": 1590796800,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
+    "xyz.com.br": {
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
         "state": "future"
     },
     "yourfirstcheapshop.com": {
