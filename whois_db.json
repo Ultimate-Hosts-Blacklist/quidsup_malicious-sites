@@ -549,6 +549,11 @@
         "expiration_date": "23-aug-2020",
         "state": "future"
     },
+    "toftothisle.info": {
+        "epoch": 1620000000,
+        "expiration_date": "03-may-2021",
+        "state": "future"
+    },
     "toogle.com": {
         "epoch": 1680134400,
         "expiration_date": "30-mar-2023",
