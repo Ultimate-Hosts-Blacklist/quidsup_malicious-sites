@@ -247,7 +247,10 @@
         "www.push-signals.online",
         "www.facebookprofileview.com",
         "www.modelwork.org",
-        "omnibox.bar"
+        "omnibox.bar",
+        "xyz.com.br",
+        "www.xyz.com.br",
+        "zorwrite.com"
     ],
     "INACTIVE": [
         "www.sendmepush.com",
@@ -287,6 +290,38 @@
         "www.adsunflower.com",
         "www.rensovetors.info",
         "www.wwu-natwiest.com",
-        "www.advmob.cn"
+        "www.advmob.cn",
+        "minaraca.com",
+        "www.minaraca.com",
+        "www.jldnphwwu.bid",
+        "onlinesurveydaily.com",
+        "jldnphwwu.bid",
+        "www.onlinesurveydaily.com",
+        "roughted.com",
+        "www.simplebookmark.info",
+        "www.roughted.com",
+        "simplebookmark.info",
+        "www.bitleyco.cc",
+        "bitleyco.cc",
+        "gonirola.com",
+        "www.gonirola.com",
+        "servicekgbfit.us",
+        "www.servicekgbfit.us",
+        "www.changemind.monster",
+        "www.wwwp.link",
+        "wwwp.link",
+        "www.intimglobus.ru",
+        "intimglobus.ru",
+        "www.baidu.om",
+        "baidu.om",
+        "changemind.monster",
+        "www.reliablesurfingext.biz",
+        "reliablesurfingext.biz",
+        "andr-security.com",
+        "www.andr-security.com",
+        "www.zorwrite.com"
+    ],
+    "INVALID": [
+        "s4yxaqyq95.fuk"
     ]
 }
