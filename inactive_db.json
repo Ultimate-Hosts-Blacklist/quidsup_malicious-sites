@@ -637,9 +637,6 @@
         "1570665462": {
             "www.ad2up.com": "INACTIVE"
         },
-        "1570665723": {
-            "www.adsunflower.com": "INACTIVE"
-        },
         "1570665736": {
             "www.epicunitscan.info": "INACTIVE"
         },
@@ -655,9 +652,6 @@
         "1570819461": {
             "www.nuxues.com": "INACTIVE"
         },
-        "1570819723": {
-            "www.adsunflower.com": "INACTIVE"
-        },
         "1570824421": {
             "changemind.monster": "INACTIVE"
         },
@@ -665,8 +659,7 @@
             "www.abcd7777.com": "INACTIVE"
         },
         "1570992747": {
-            "www.1kdailyprofit.biz": "INACTIVE",
-            "www.adsunflower.com": "INACTIVE"
+            "www.1kdailyprofit.biz": "INACTIVE"
         },
         "1570992752": {
             "www.sendmepush.com": "INACTIVE"
@@ -687,9 +680,6 @@
         "1570997428": {
             "minaraca.com": "INACTIVE",
             "www.bitleyco.cc": "INACTIVE"
-        },
-        "1571136041": {
-            "www.adsunflower.com": "INACTIVE"
         },
         "1571136178": {
             "www.adfuture.cn": "INACTIVE"
@@ -719,9 +709,6 @@
         "1571224603": {
             "www.bestupdatemeta.com": "INACTIVE"
         },
-        "1571224879": {
-            "www.adsunflower.com": "INACTIVE"
-        },
         "1571225009": {
             "www.advmob.cn": "INACTIVE"
         },
@@ -730,6 +717,21 @@
         },
         "1571230497": {
             "www.baidu.om": "INACTIVE"
+        },
+        "1571310723": {
+            "www.adfuture.cn": "INACTIVE"
+        },
+        "1571311009": {
+            "www.advmob.cn": "INACTIVE"
+        },
+        "1571311012": {
+            "www.myxns.cn": "INACTIVE"
+        },
+        "1571311019": {
+            "www.osdrivers.win": "INACTIVE"
+        },
+        "1571311163": {
+            "www.adsunflower.com": "INACTIVE"
         }
     }
 }
