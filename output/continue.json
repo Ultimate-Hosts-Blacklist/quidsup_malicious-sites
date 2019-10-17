@@ -249,7 +249,10 @@
         "www.pdn-2.com",
         "check-this-out-now.online",
         "pdn-2.com",
-        "zorwrite.com"
+        "zorwrite.com",
+        "xyz.com.br",
+        "www.xyz.com.br",
+        "changemind.monster"
     ],
     "INACTIVE": [
         "www.ad2up.com",
@@ -295,6 +298,31 @@
         "www.zorwrite.com",
         "bitleyco.cc",
         "www.roughted.com",
-        "roughted.com"
+        "roughted.com",
+        "www.changemind.monster",
+        "servicekgbfit.us",
+        "www.servicekgbfit.us",
+        "intimglobus.ru",
+        "www.intimglobus.ru",
+        "changemind.monster",
+        "www.wwwp.link",
+        "www.reliablesurfingext.biz",
+        "minaraca.com",
+        "reliablesurfingext.biz",
+        "www.minaraca.com",
+        "www.gonirola.com",
+        "wwwp.link",
+        "gonirola.com",
+        "baidu.om",
+        "www.baidu.om",
+        "andr-security.com",
+        "www.andr-security.com",
+        "onlinesurveydaily.com",
+        "www.onlinesurveydaily.com",
+        "www.simplebookmark.info",
+        "simplebookmark.info"
+    ],
+    "INVALID": [
+        "s4yxaqyq95.fuk"
     ]
 }

@@ -124,6 +124,11 @@
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
+    "changemind.monster": {
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
     "cjl58f3agc.com": {
         "epoch": 1586995200,
         "expiration_date": "16-apr-2020",
