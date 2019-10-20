@@ -317,7 +317,7 @@
     "jesus2020.com": {
         "epoch": 1571529600,
         "expiration_date": "20-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "lhzbdvm.com": {
         "epoch": 1571788800,
