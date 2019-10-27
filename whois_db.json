@@ -129,6 +129,11 @@
         "expiration_date": "29-aug-2020",
         "state": "future"
     },
+    "check-this-out-now.online": {
+        "epoch": 1590883200,
+        "expiration_date": "31-may-2020",
+        "state": "future"
+    },
     "cjl58f3agc.com": {
         "epoch": 1586995200,
         "expiration_date": "16-apr-2020",
@@ -320,9 +325,9 @@
         "state": "future"
     },
     "lhzbdvm.com": {
-        "epoch": 1571788800,
-        "expiration_date": "23-oct-2019",
-        "state": "past"
+        "epoch": 1603411200,
+        "expiration_date": "23-oct-2020",
+        "state": "future"
     },
     "loadsource.org": {
         "epoch": 1601596800,
@@ -514,6 +519,11 @@
         "expiration_date": "14-jan-2020",
         "state": "future"
     },
+    "retreatoftheretreat.site": {
+        "epoch": 1591660800,
+        "expiration_date": "09-jun-2020",
+        "state": "future"
+    },
     "rgvqcsxqge.com": {
         "epoch": 1592524800,
         "expiration_date": "19-jun-2020",
@@ -652,6 +662,11 @@
     "wealthyboost.com": {
         "epoch": 1596585600,
         "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "wixanalyticssitebuildertool.site": {
+        "epoch": 1584921600,
+        "expiration_date": "23-mar-2020",
         "state": "future"
     },
     "wkvplhxvpk.com": {
