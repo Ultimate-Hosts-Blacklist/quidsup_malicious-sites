@@ -549,6 +549,11 @@
         "expiration_date": "13-oct-2023",
         "state": "future"
     },
+    "securestudies.com": {
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
     "securesurf.biz": {
         "epoch": 1590192000,
         "expiration_date": "23-may-2020",
