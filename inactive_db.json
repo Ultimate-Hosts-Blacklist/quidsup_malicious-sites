@@ -459,7 +459,6 @@
             "www.donation-tools.org": "INACTIVE",
             "www.loadsource.org": "INACTIVE",
             "www.promo-bc.com": "INACTIVE",
-            "www.prugskh.net": "INACTIVE",
             "www.rensovetors.info": "INACTIVE",
             "www.styleszelife.com": "INACTIVE",
             "www.wixanalyticssitebuildertool.site": "INACTIVE"
@@ -816,9 +815,6 @@
             "www.donation-tools.org": "INACTIVE",
             "www.wcomhost.com": "INACTIVE"
         },
-        "1572430360": {
-            "www.prugskh.net": "INACTIVE"
-        },
         "1572430369": {
             "www.wbidder.online": "INACTIVE"
         },
@@ -913,6 +909,30 @@
         },
         "1572631462": {
             "www.intimglobus.ru": "INACTIVE"
+        },
+        "1572803736": {
+            "www.epicunitscan.info": "INACTIVE"
+        },
+        "1572803753": {
+            "www.tourtodaylaboratory.com": "INACTIVE"
+        },
+        "1572803766": {
+            "www.trumpetedextremes.com": "INACTIVE"
+        },
+        "1572803773": {
+            "www.96.lt": "INACTIVE"
+        },
+        "1572803778": {
+            "www.advmob.cn": "INACTIVE"
+        },
+        "1572803795": {
+            "www.myxns.cn": "INACTIVE"
+        },
+        "1572803809": {
+            "www.advmob.cn": "INACTIVE"
+        },
+        "1572803833": {
+            "www.prugskh.net": "INACTIVE"
         }
     }
 }
