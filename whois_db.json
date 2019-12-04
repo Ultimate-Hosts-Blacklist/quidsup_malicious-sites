@@ -284,6 +284,11 @@
         "expiration_date": "11-jul-2020",
         "state": "future"
     },
+    "giveaways-nl.com": {
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
     "globaloffers.link": {
         "epoch": 1589414400,
         "expiration_date": "14-may-2020",
@@ -449,6 +454,11 @@
         "expiration_date": "11-feb-2020",
         "state": "future"
     },
+    "mppmnetwork.com": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
+        "state": "future"
+    },
     "myfood.ltd": {
         "epoch": 1588809600,
         "expiration_date": "07-may-2020",
@@ -527,6 +537,11 @@
     "packsonikolas.info": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
+    "patithatspartal.pro": {
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
         "state": "future"
     },
     "pbterra.com": {
