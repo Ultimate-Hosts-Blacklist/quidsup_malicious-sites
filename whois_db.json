@@ -95,9 +95,9 @@
         "state": "future"
     },
     "barenudism.com": {
-        "epoch": 1575504000,
+        "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "best2018games.com": {
         "epoch": 1593907200,
@@ -177,7 +177,7 @@
     "coolestmedia.net": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "cpm20.com": {
         "epoch": 1595289600,
@@ -412,7 +412,7 @@
     "lifeimpressions.net": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "loadsource.org": {
         "epoch": 1601596800,
@@ -577,7 +577,7 @@
     "premiumstory.net": {
         "epoch": 1575504000.0,
         "expiration_date": "05-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "promo-bc.com": {
         "epoch": 1597276800,
