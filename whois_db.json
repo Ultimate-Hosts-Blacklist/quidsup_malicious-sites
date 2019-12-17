@@ -369,6 +369,11 @@
         "expiration_date": "02-jan-2020",
         "state": "future"
     },
+    "instantreward.site": {
+        "epoch": 1584748800.0,
+        "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
     "intimepoint.com": {
         "epoch": 1602460800.0,
         "expiration_date": "12-oct-2020",
@@ -725,9 +730,9 @@
         "state": "future"
     },
     "szgl120.com": {
-        "epoch": 1576540800,
+        "epoch": 1576540800.0,
         "expiration_date": "17-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "taosha.cc": {
         "epoch": 1590537600,
