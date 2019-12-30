@@ -529,6 +529,11 @@
         "expiration_date": "27-nov-2020",
         "state": "future"
     },
+    "mwor.gq": {
+        "epoch": 1885680000.0,
+        "expiration_date": "03-oct-2029",
+        "state": "future"
+    },
     "myfood.ltd": {
         "epoch": 1588809600,
         "expiration_date": "07-may-2020",
