@@ -745,9 +745,9 @@
         "state": "future"
     },
     "searchnet.com": {
-        "epoch": 1577836800,
+        "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "searchtabnew.com": {
         "epoch": 1697155200,
