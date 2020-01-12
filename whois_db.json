@@ -214,6 +214,11 @@
         "expiration_date": "04-may-2020",
         "state": "future"
     },
+    "debrahinton.pro": {
+        "epoch": 1600905600.0,
+        "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
     "deloplen.com": {
         "epoch": 1585440000,
         "expiration_date": "29-mar-2020",
@@ -277,6 +282,11 @@
     "ffdns.net": {
         "epoch": 1597190400,
         "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
+    "forwrdnow.com": {
+        "epoch": 1586390400.0,
+        "expiration_date": "09-apr-2020",
         "state": "future"
     },
     "freecalculation.com": {
@@ -362,6 +372,11 @@
     "googele.com": {
         "epoch": 1668297600,
         "expiration_date": "13-nov-2022",
+        "state": "future"
+    },
+    "gusimp.net": {
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
         "state": "future"
     },
     "hanstrackr.com": {
@@ -547,6 +562,11 @@
     "myxns.cn": {
         "epoch": 1591228800,
         "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
+    "n13x4nfw8frika.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "newmayads.com": {
