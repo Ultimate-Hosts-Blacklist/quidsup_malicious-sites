@@ -200,9 +200,9 @@
         "state": "future"
     },
     "cybergateway.net": {
-        "epoch": 1579219200,
+        "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "dardendly.info": {
         "epoch": 1600387200.0,
