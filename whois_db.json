@@ -307,17 +307,17 @@
     "freecontent.faith": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "freecontent.party": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "freecontent.science": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "freecontent.stream": {
         "epoch": 1611014400.0,
@@ -327,7 +327,7 @@
     "freecontent.trade": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "freshaudio.net": {
         "epoch": 1602460800.0,
