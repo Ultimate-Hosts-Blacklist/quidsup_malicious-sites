@@ -2384,9 +2384,6 @@
         "1579200200": {
             "www.bestadbid.com": "INACTIVE"
         },
-        "1579200209": {
-            "www.giveaways-nl.com": "INACTIVE"
-        },
         "1579200222": {
             "www.zinessprop.info": "INACTIVE"
         },
@@ -2591,9 +2588,6 @@
         "1579300426": {
             "www.attacketslovern.info": "INACTIVE"
         },
-        "1579300442": {
-            "www.giveaways-nl.com": "INACTIVE"
-        },
         "1579300458": {
             "www.packsonikolas.info": "INACTIVE",
             "www.zinessprop.info": "INACTIVE"
@@ -2668,8 +2662,7 @@
             "www.promo-bc.com": "INACTIVE"
         },
         "1579300607": {
-            "jshosting.download": "INACTIVE",
-            "www.giveaways-nl.com": "INACTIVE"
+            "jshosting.download": "INACTIVE"
         },
         "1579300608": {
             "www.money-maker-default.info": "INACTIVE"
@@ -2842,9 +2835,6 @@
         },
         "1579386470": {
             "www.adaranth.com": "INACTIVE"
-        },
-        "1579386475": {
-            "www.giveaways-nl.com": "INACTIVE"
         },
         "1579386489": {
             "www.promo-bc.com": "INACTIVE"
@@ -3042,8 +3032,7 @@
             "www.hostingcloud.bid": "INACTIVE"
         },
         "1579386803": {
-            "www.data1rtb.com": "INACTIVE",
-            "www.giveaways-nl.com": "INACTIVE"
+            "www.data1rtb.com": "INACTIVE"
         },
         "1579386804": {
             "www.freecontent.science": "INACTIVE"
@@ -3077,9 +3066,6 @@
         },
         "1579429557": {
             "www.mobileoffers-co-download.com": "INACTIVE"
-        },
-        "1579429558": {
-            "www.giveaways-nl.com": "INACTIVE"
         },
         "1579429561": {
             "www.nuxues.com": "INACTIVE"
@@ -3244,9 +3230,6 @@
         },
         "1579429815": {
             "www.hostingcloud.date": "INACTIVE"
-        },
-        "1579429816": {
-            "www.giveaways-nl.com": "INACTIVE"
         },
         "1579429858": {
             "www.bestupdatemeta.com": "INACTIVE"
@@ -3454,9 +3437,6 @@
         "1579517140": {
             "www.wwu-natwiest.com": "INACTIVE"
         },
-        "1579517149": {
-            "www.giveaways-nl.com": "INACTIVE"
-        },
         "1579517160": {
             "www.styleszelife.com": "INACTIVE"
         },
@@ -3614,9 +3594,6 @@
         "1579517243": {
             "jshosting.review": "INACTIVE"
         },
-        "1579517244": {
-            "www.giveaways-nl.com": "INACTIVE"
-        },
         "1579517245": {
             "www.deloplen.com": "INACTIVE"
         },
@@ -3729,7 +3706,6 @@
             "www.tourtodaylaboratory.com": "INACTIVE"
         },
         "1579634511": {
-            "www.giveaways-nl.com": "INACTIVE",
             "www.toftothisle.info": "INACTIVE"
         },
         "1579634519": {
@@ -3757,8 +3733,7 @@
             "www.luckypushh.com": "INACTIVE"
         },
         "1579634539": {
-            "money-maker-default.info": "INACTIVE",
-            "www.giveaways-nl.com": "INACTIVE"
+            "money-maker-default.info": "INACTIVE"
         },
         "1579634541": {
             "www.96.lt": "INACTIVE",
@@ -3901,6 +3876,301 @@
         "1579634659": {
             "www.freecalculation.com": "INACTIVE",
             "wwwp.link": "INACTIVE"
+        },
+        "1579691128": {
+            "www.toftothisle.info": "INACTIVE"
+        },
+        "1579691130": {
+            "www.osdrivers.win": "INACTIVE"
+        },
+        "1579691135": {
+            "www.dardendly.info": "INACTIVE"
+        },
+        "1579691139": {
+            "www.thankelse.site": "INACTIVE"
+        },
+        "1579691148": {
+            "www.donation-tools.org": "INACTIVE"
+        },
+        "1579691158": {
+            "www.sendmepush.com": "INACTIVE"
+        },
+        "1579691159": {
+            "www.data1rtb.com": "INACTIVE"
+        },
+        "1579691161": {
+            "www.barenudism.com": "INACTIVE"
+        },
+        "1579691162": {
+            "www.mobileoffers-ce-download.com": "INACTIVE"
+        },
+        "1579691170": {
+            "www.attacketslovern.info": "INACTIVE"
+        },
+        "1579691179": {
+            "www.nuxues.com": "INACTIVE"
+        },
+        "1579691180": {
+            "www.epicunitscan.info": "INACTIVE"
+        },
+        "1579691187": {
+            "www.wbidder.online": "INACTIVE"
+        },
+        "1579691189": {
+            "www.96.lt": "INACTIVE"
+        },
+        "1579691190": {
+            "www.bestupdatemeta.com": "INACTIVE"
+        },
+        "1579691193": {
+            "www.changemind.monster": "INACTIVE"
+        },
+        "1579691194": {
+            "www.wwu-natwiest.com": "INACTIVE"
+        },
+        "1579691197": {
+            "www.deloplen.com": "INACTIVE"
+        },
+        "1579691202": {
+            "www.packsonikolas.info": "INACTIVE"
+        },
+        "1579691206": {
+            "www.mppmnetwork.com": "INACTIVE"
+        },
+        "1579691213": {
+            "www.patithatspartal.pro": "INACTIVE"
+        },
+        "1579691215": {
+            "www.bestadbid.com": "INACTIVE"
+        },
+        "1579691224": {
+            "www.freecontent.science": "INACTIVE"
+        },
+        "1579691225": {
+            "www.1kdailyprofit.biz": "INACTIVE"
+        },
+        "1579691227": {
+            "www.tourtodaylaboratory.com": "INACTIVE"
+        },
+        "1579691229": {
+            "www.freecalculation.com": "INACTIVE"
+        },
+        "1579691231": {
+            "www.adaranth.com": "INACTIVE"
+        },
+        "1579691235": {
+            "www.qnjdtefk.com": "INACTIVE"
+        },
+        "1579691243": {
+            "www.hostingcloud.science": "INACTIVE"
+        },
+        "1579691244": {
+            "www.news-bbc-uk.com": "INACTIVE"
+        },
+        "1579691250": {
+            "www.styleszelife.com": "INACTIVE"
+        },
+        "1579691266": {
+            "www.luckypushh.com": "INACTIVE"
+        },
+        "1579691268": {
+            "www.promo-bc.com": "INACTIVE"
+        },
+        "1579691283": {
+            "www.mobileoffers-co-download.com": "INACTIVE"
+        },
+        "1579691289": {
+            "www.boudja.com": "INACTIVE"
+        },
+        "1579691308": {
+            "www.zinessprop.info": "INACTIVE"
+        },
+        "1579691323": {
+            "www.jshosting.loan": "INACTIVE"
+        },
+        "1579691324": {
+            "www.deloplen.com": "INACTIVE"
+        },
+        "1579691325": {
+            "www.jshosting.bid": "INACTIVE"
+        },
+        "1579691326": {
+            "www.adaranth.com": "INACTIVE",
+            "www.osdrivers.win": "INACTIVE"
+        },
+        "1579691327": {
+            "www.freecontent.loan": "INACTIVE"
+        },
+        "1579691328": {
+            "www.barenudism.com": "INACTIVE",
+            "www.thankelse.site": "INACTIVE"
+        },
+        "1579691329": {
+            "money-maker-default.info": "INACTIVE"
+        },
+        "1579691331": {
+            "www.promo-bc.com": "INACTIVE",
+            "www.toftothisle.info": "INACTIVE"
+        },
+        "1579691332": {
+            "www.hostingcloud.date": "INACTIVE"
+        },
+        "1579691333": {
+            "wwwp.link": "INACTIVE"
+        },
+        "1579691334": {
+            "www.jshosting.loan": "INACTIVE"
+        },
+        "1579691340": {
+            "www.donation-tools.org": "INACTIVE",
+            "www.freecontent.loan": "INACTIVE"
+        },
+        "1579691341": {
+            "www.freecontent.win": "INACTIVE"
+        },
+        "1579691342": {
+            "www.wbidder.online": "INACTIVE"
+        },
+        "1579691343": {
+            "www.hostingcloud.download": "INACTIVE"
+        },
+        "1579691344": {
+            "www.hostingcloud.loan": "INACTIVE",
+            "www.hostingcloud.science": "INACTIVE"
+        },
+        "1579691346": {
+            "www.jshosting.download": "INACTIVE"
+        },
+        "1579691347": {
+            "www.mppmnetwork.com": "INACTIVE"
+        },
+        "1579691348": {
+            "www.boudja.com": "INACTIVE",
+            "www.freecontent.win": "INACTIVE"
+        },
+        "1579691349": {
+            "www.hostingcloud.bid": "INACTIVE"
+        },
+        "1579691350": {
+            "www.money-maker-default.info": "INACTIVE"
+        },
+        "1579691351": {
+            "www.reliablesurfingext.biz": "INACTIVE"
+        },
+        "1579691352": {
+            "www.epicunitscan.info": "INACTIVE"
+        },
+        "1579691353": {
+            "www.1kdailyprofit.biz": "INACTIVE"
+        },
+        "1579691359": {
+            "www.jshosting.party": "INACTIVE"
+        },
+        "1579691360": {
+            "www.dardendly.info": "INACTIVE",
+            "www.jshosting.party": "INACTIVE"
+        },
+        "1579691361": {
+            "www.jshosting.review": "INACTIVE"
+        },
+        "1579691362": {
+            "www.patithatspartal.pro": "INACTIVE"
+        },
+        "1579691363": {
+            "www.nuxues.com": "INACTIVE"
+        },
+        "1579691364": {
+            "www.jshosting.trade": "INACTIVE",
+            "www.roughted.com": "INACTIVE"
+        },
+        "1579691368": {
+            "www.96.lt": "INACTIVE"
+        },
+        "1579691369": {
+            "www.sendmepush.com": "INACTIVE"
+        },
+        "1579691370": {
+            "baidu.om": "INACTIVE"
+        },
+        "1579691371": {
+            "www.jshosting.date": "INACTIVE",
+            "www.jshosting.trade": "INACTIVE"
+        },
+        "1579691372": {
+            "www.jshosting.win": "INACTIVE"
+        },
+        "1579691379": {
+            "www.bestupdatemeta.com": "INACTIVE",
+            "www.styleszelife.com": "INACTIVE"
+        },
+        "1579691380": {
+            "www.news-bbc-uk.com": "INACTIVE"
+        },
+        "1579691381": {
+            "www.hostingcloud.date": "INACTIVE",
+            "www.luckypushh.com": "INACTIVE"
+        },
+        "1579691382": {
+            "www.jshosting.racing": "INACTIVE"
+        },
+        "1579691383": {
+            "www.roughted.com": "INACTIVE",
+            "www.tourtodaylaboratory.com": "INACTIVE"
+        },
+        "1579691384": {
+            "www.bestadbid.com": "INACTIVE"
+        },
+        "1579691386": {
+            "simplebookmark.info": "INACTIVE"
+        },
+        "1579691390": {
+            "www.mobileoffers-co-download.com": "INACTIVE",
+            "www.thatsocute.us": "INACTIVE"
+        },
+        "1579691391": {
+            "www.attacketslovern.info": "INACTIVE",
+            "www.freecalculation.com": "INACTIVE"
+        },
+        "1579691392": {
+            "www.freecontent.science": "INACTIVE",
+            "www.jshosting.bid": "INACTIVE"
+        },
+        "1579691393": {
+            "www.thatsocute.us": "INACTIVE"
+        },
+        "1579691394": {
+            "www.changemind.monster": "INACTIVE",
+            "www.jshosting.win": "INACTIVE"
+        },
+        "1579691395": {
+            "www.zinessprop.info": "INACTIVE"
+        },
+        "1579691396": {
+            "simplebookmark.info": "INACTIVE",
+            "www.freecontent.racing": "INACTIVE"
+        },
+        "1579691397": {
+            "jshosting.racing": "INACTIVE"
+        },
+        "1579691398": {
+            "baidu.om": "INACTIVE"
+        },
+        "1579691399": {
+            "www.onlinesurveydaily.com": "INACTIVE"
+        },
+        "1579691400": {
+            "www.packsonikolas.info": "INACTIVE",
+            "www.wwu-natwiest.com": "INACTIVE"
+        },
+        "1579691403": {
+            "www.qnjdtefk.com": "INACTIVE"
+        },
+        "1579691404": {
+            "www.mobileoffers-ce-download.com": "INACTIVE"
+        },
+        "1579691405": {
+            "www.giveaways-nl.com": "INACTIVE",
+            "www.jshosting.review": "INACTIVE"
         }
     }
 }
