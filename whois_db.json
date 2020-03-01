@@ -104,6 +104,11 @@
         "expiration_date": "04-jun-2020",
         "state": "future"
     },
+    "api-spotify.net": {
+        "epoch": 1595808000.0,
+        "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
     "appslinker.net": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
@@ -207,6 +212,11 @@
     "browfileext.com": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
+    "browlinkdev.xyz": {
+        "epoch": 1594857600.0,
+        "expiration_date": "16-jul-2020",
         "state": "future"
     },
     "bugdepromo.com": {
@@ -339,6 +349,11 @@
         "expiration_date": "13-jul-2020",
         "state": "future"
     },
+    "comtakelink.xyz": {
+        "epoch": 1594857600.0,
+        "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
     "consensu.org": {
         "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
@@ -419,6 +434,11 @@
         "expiration_date": "16-may-2020",
         "state": "future"
     },
+    "datapro.website": {
+        "epoch": 1593388800.0,
+        "expiration_date": "29-jun-2020",
+        "state": "future"
+    },
     "debrahinton.pro": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
@@ -452,6 +472,11 @@
     "dismagic.com": {
         "epoch": 1613001600.0,
         "expiration_date": "11-feb-2021",
+        "state": "future"
+    },
+    "domclickext.xyz": {
+        "epoch": 1603411200.0,
+        "expiration_date": "23-oct-2020",
         "state": "future"
     },
     "donation-tools.org": {
@@ -627,6 +652,16 @@
     "giveaways-nl.com": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
+    "glganltcs.space": {
+        "epoch": 1588896000.0,
+        "expiration_date": "08-may-2020",
+        "state": "future"
+    },
+    "globalmdx.club": {
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
         "state": "future"
     },
     "globaloffers.link": {
@@ -869,6 +904,11 @@
         "expiration_date": "08-may-2020",
         "state": "future"
     },
+    "linkojager.org": {
+        "epoch": 1602547200.0,
+        "expiration_date": "13-oct-2020",
+        "state": "future"
+    },
     "linkpowerapp.com": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
@@ -892,6 +932,11 @@
     "loidjony.net": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
+    "lokimtogo.xyz": {
+        "epoch": 1593734400.0,
+        "expiration_date": "03-jul-2020",
         "state": "future"
     },
     "lonelyfix.com": {
@@ -994,6 +1039,11 @@
         "expiration_date": "16-jul-2020",
         "state": "future"
     },
+    "mobiclean.xyz": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
+    },
     "mobileoffers-ce-download.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
@@ -1042,6 +1092,11 @@
     "n13x4nfw8frika.com": {
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
+    "netanalyzer.space": {
+        "epoch": 1588896000.0,
+        "expiration_date": "08-may-2020",
         "state": "future"
     },
     "netcomfort.org": {
@@ -1142,6 +1197,11 @@
     "packsonikolas.info": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
+    "pageanalytics.space": {
+        "epoch": 1589587200.0,
+        "expiration_date": "16-may-2020",
         "state": "future"
     },
     "pagescr.cool": {
@@ -1529,6 +1589,11 @@
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "statvalidation.website": {
+        "epoch": 1589587200.0,
+        "expiration_date": "16-may-2020",
+        "state": "future"
+    },
     "storysrc.com": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
@@ -1737,6 +1802,11 @@
     "xyz.com.br": {
         "epoch": 1592352000,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "ydpi.pw": {
+        "epoch": 1594684800.0,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "yourfirstcheapshop.com": {
