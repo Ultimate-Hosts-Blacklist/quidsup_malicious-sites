@@ -620,9 +620,9 @@
         "state": "past"
     },
     "freecontent.science": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
-        "state": "past"
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
     },
     "freecontent.stream": {
         "epoch": 1611014400.0,
@@ -732,6 +732,11 @@
     "happyfeed.net": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
+    "hardyload.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "healthandfitnessus.com": {
