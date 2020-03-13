@@ -487,7 +487,7 @@
     "domaincdn.xyz": {
         "epoch": 1584057600.0,
         "expiration_date": "13-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "domclickext.xyz": {
         "epoch": 1603411200.0,
