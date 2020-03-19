@@ -235,9 +235,9 @@
         "state": "future"
     },
     "buycritical.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
-        "state": "past"
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "state": "future"
     },
     "caplinkff.com": {
         "epoch": 1595462400.0,
@@ -397,6 +397,11 @@
     "countmake.cool": {
         "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
+    "covid19-info.online": {
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
         "state": "future"
     },
     "cozytech.biz": {
@@ -812,6 +817,11 @@
     "instantreward.site": {
         "epoch": 1584748800.0,
         "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
+    "interjoan.com": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
         "state": "future"
     },
     "intimepoint.com": {
@@ -1235,8 +1245,8 @@
         "state": "future"
     },
     "painlesses.com": {
-        "epoch": 1584576000.0,
-        "expiration_date": "19-mar-2020",
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
         "state": "future"
     },
     "patithatspartal.pro": {
@@ -1325,9 +1335,9 @@
         "state": "future"
     },
     "primalsuper.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
-        "state": "past"
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "state": "future"
     },
     "printapplink.com": {
         "epoch": 1595203200.0,
@@ -1440,9 +1450,9 @@
         "state": "future"
     },
     "reddogdangerous.com": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
-        "state": "past"
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "state": "future"
     },
     "reimageplus.com": {
         "epoch": 1641168000.0,
@@ -1560,8 +1570,8 @@
         "state": "future"
     },
     "slickfluide.com": {
-        "epoch": 1584576000.0,
-        "expiration_date": "19-mar-2020",
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
         "state": "future"
     },
     "smackbolt.com": {
