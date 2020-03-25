@@ -337,7 +337,7 @@
     "cloudesky.com": {
         "epoch": 1585094400.0,
         "expiration_date": "25-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "cobalten.com": {
         "epoch": 1592006400.0,
@@ -1575,8 +1575,8 @@
         "state": "future"
     },
     "smackbolt.com": {
-        "epoch": 1585094400.0,
-        "expiration_date": "25-mar-2020",
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
         "state": "future"
     },
     "solvusoft.com": {
@@ -1757,11 +1757,11 @@
     "vabesaura.com": {
         "epoch": 1585094400.0,
         "expiration_date": "25-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "vibeclimate.com": {
-        "epoch": 1585094400.0,
-        "expiration_date": "25-mar-2020",
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
         "state": "future"
     },
     "vinfdv6b4j.com": {
