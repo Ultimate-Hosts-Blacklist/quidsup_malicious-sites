@@ -904,6 +904,11 @@
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
+    "lalaping.com": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
     "lancheck.net": {
         "epoch": 1587513600.0,
         "expiration_date": "22-apr-2020",
