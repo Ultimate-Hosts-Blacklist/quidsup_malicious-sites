@@ -780,14 +780,14 @@
         "state": "future"
     },
     "hostingcloud.racing": {
-        "epoch": 1585958400.0,
-        "expiration_date": "04-apr-2020",
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
         "state": "future"
     },
     "hostingcloud.science": {
         "epoch": 1585958400.0,
         "expiration_date": "04-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "icontent.us": {
         "epoch": 1596758400.0,
