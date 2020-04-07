@@ -439,6 +439,11 @@
         "expiration_date": "18-sep-2020",
         "state": "future"
     },
+    "dashvintage.biz": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
     "data1rtb.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
