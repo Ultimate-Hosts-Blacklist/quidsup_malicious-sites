@@ -404,6 +404,11 @@
         "expiration_date": "16-mar-2021",
         "state": "future"
     },
+    "covid19quiz.com": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
+    },
     "cozytech.biz": {
         "epoch": 1608854400.0,
         "expiration_date": "25-dec-2020",
@@ -600,8 +605,8 @@
         "state": "future"
     },
     "forwrdnow.com": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "foundfax.com": {
@@ -777,7 +782,7 @@
     "hoholikik.club": {
         "epoch": 1586390400.0,
         "expiration_date": "09-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "hostingcloud.faith": {
         "epoch": 1598832000.0,
@@ -1654,6 +1659,11 @@
         "expiration_date": "02-apr-2021",
         "state": "future"
     },
+    "survivecoronavirus.org": {
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
+        "state": "future"
+    },
     "sysfileff.com": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
@@ -1807,6 +1817,11 @@
     "wellgolink.com": {
         "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
+    "whatcoronavirus.com": {
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "wixanalyticssitebuildertool.site": {
