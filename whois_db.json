@@ -420,8 +420,8 @@
         "state": "future"
     },
     "craftprimes.com": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "criticalltech.com": {
@@ -1430,14 +1430,14 @@
         "state": "future"
     },
     "putrr16.com": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "putrr18.com": {
         "epoch": 1587340800.0,
         "expiration_date": "20-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "pyq6n.com": {
         "epoch": 1613260800.0,
