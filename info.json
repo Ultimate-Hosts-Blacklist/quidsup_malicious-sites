@@ -10,7 +10,7 @@
     "name": "quidsup_malicious-sites",
     "previous_stats": {
         "builds": 1,
-        "clean_list": 626,
+        "clean_list": 629,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -21,10 +21,10 @@
             "valid": 0
         },
         "domains.list": 369,
-        "volatile.list": 626,
-        "whitelisted.list": 626
+        "volatile.list": 629,
+        "whitelisted.list": 629
     },
     "raw_link": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt",
-    "start_datetime": "2020-05-15T20:38:50.717151",
-    "start_epoch": 1589575130.717151
+    "start_datetime": "2020-05-17T20:35:25.602782",
+    "start_epoch": 1589747725.602782
 }

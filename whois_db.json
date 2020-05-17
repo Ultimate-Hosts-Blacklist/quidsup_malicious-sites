@@ -455,8 +455,8 @@
         "state": "future"
     },
     "dataanalytic.biz": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "datapro.website": {
@@ -825,8 +825,8 @@
         "state": "future"
     },
     "infoanalytics.tools": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "instantreward.site": {
@@ -1260,8 +1260,8 @@
         "state": "future"
     },
     "pageanalytics.space": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "pagescr.cool": {
@@ -1642,7 +1642,7 @@
     "statcounter.biz": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "statsrc.cool": {
         "epoch": 1602201600.0,
@@ -1650,8 +1650,8 @@
         "state": "future"
     },
     "statvalidation.website": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "storysrc.com": {
@@ -1730,8 +1730,8 @@
         "state": "future"
     },
     "trafficvalidation.tools": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "treestarys.com": {
