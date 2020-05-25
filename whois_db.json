@@ -1610,8 +1610,8 @@
         "state": "future"
     },
     "solvusoft.com": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
         "state": "future"
     },
     "sourceapp.cool": {
@@ -1792,6 +1792,11 @@
     "vabesaura.com": {
         "epoch": 1616630400.0,
         "expiration_date": "25-mar-2021",
+        "state": "future"
+    },
+    "vadalonnsotun.com": {
+        "epoch": 1618272000.0,
+        "expiration_date": "13-apr-2021",
         "state": "future"
     },
     "vibeclimate.com": {
