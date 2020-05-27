@@ -545,8 +545,8 @@
         "state": "future"
     },
     "edatasales.com": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
         "state": "future"
     },
     "epicunitscan.info": {
@@ -917,7 +917,7 @@
     "klonedoc.com": {
         "epoch": 1590537600.0,
         "expiration_date": "27-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "ladsblue.com": {
         "epoch": 1592352000.0,
@@ -1025,8 +1025,8 @@
         "state": "future"
     },
     "luselucky.com": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
         "state": "future"
     },
     "madmimi.com": {
@@ -1695,8 +1695,8 @@
         "state": "future"
     },
     "taosha.cc": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1653609600.0,
+        "expiration_date": "27-may-2022",
         "state": "future"
     },
     "techsuperb.biz": {
