@@ -480,9 +480,9 @@
         "state": "future"
     },
     "digitaloptout.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
-        "state": "past"
+        "epoch": 1654300800.0,
+        "expiration_date": "04-jun-2022",
+        "state": "future"
     },
     "digitalsmirror.com": {
         "epoch": 1602460800.0,
@@ -1472,7 +1472,7 @@
     "rasenalong.com": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "reauthenticator.com": {
         "epoch": 1597536000.0,
