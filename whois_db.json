@@ -245,8 +245,8 @@
         "state": "future"
     },
     "captiontxt.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "cardinaldata.net": {
@@ -682,7 +682,7 @@
     "gettop.info": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "giftcards4fans.com": {
         "epoch": 1594425600.0,
@@ -920,8 +920,8 @@
         "state": "future"
     },
     "ladsblue.com": {
-        "epoch": 1592352000.0,
-        "expiration_date": "17-jun-2020",
+        "epoch": 1623888000.0,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "lalaping.com": {
@@ -1320,8 +1320,8 @@
         "state": "future"
     },
     "penscenario.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "pilotlow.org": {
@@ -1590,8 +1590,8 @@
         "state": "future"
     },
     "shopstorys.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "simonzody.com": {
@@ -1665,8 +1665,8 @@
         "state": "future"
     },
     "storysrc.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
         "state": "future"
     },
     "styleszelife.com": {
