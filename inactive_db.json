@@ -679,6 +679,13 @@
             "last_retested_at_iso": "2020-06-22T11:51:30.632882",
             "status": "INACTIVE"
         },
+        "www.infoanalytics.tools": {
+            "included_at_epoch": 1592869614.64675,
+            "included_at_iso": "2020-06-22T23:46:54.646750",
+            "last_retested_at_epoch": 1592869614.64675,
+            "last_retested_at_iso": "2020-06-22T23:46:54.646750",
+            "status": "INACTIVE"
+        },
         "www.investing-review.com": {
             "included_at_epoch": 1590266024.488783,
             "included_at_iso": "2020-05-23T20:33:44.488783",
@@ -920,8 +927,8 @@
         "www.pageanalytics.space": {
             "included_at_epoch": 1588364725.0,
             "included_at_iso": "2020-05-01T20:25:25",
-            "last_retested_at_epoch": 1589575333.673109,
-            "last_retested_at_iso": "2020-05-15T20:42:13.673109",
+            "last_retested_at_epoch": 1592869647.772211,
+            "last_retested_at_iso": "2020-06-22T23:47:27.772211",
             "status": "INACTIVE"
         },
         "www.patithatspartal.pro": {
@@ -1092,11 +1099,18 @@
             "last_retested_at_iso": "2020-06-22T11:51:05.355752",
             "status": "INACTIVE"
         },
+        "www.statcounter.biz": {
+            "included_at_epoch": 1592869628.123026,
+            "included_at_iso": "2020-06-22T23:47:08.123026",
+            "last_retested_at_epoch": 1592869628.123026,
+            "last_retested_at_iso": "2020-06-22T23:47:08.123026",
+            "status": "INACTIVE"
+        },
         "www.statvalidation.website": {
             "included_at_epoch": 1588364710.0,
             "included_at_iso": "2020-05-01T20:25:10",
-            "last_retested_at_epoch": 1589575179.457336,
-            "last_retested_at_iso": "2020-05-15T20:39:39.457336",
+            "last_retested_at_epoch": 1592869491.142019,
+            "last_retested_at_iso": "2020-06-22T23:44:51.142019",
             "status": "INACTIVE"
         },
         "www.styleszelife.com": {
@@ -1158,8 +1172,8 @@
         "www.trafficvalidation.tools": {
             "included_at_epoch": 1588364937.0,
             "included_at_iso": "2020-05-01T20:28:57",
-            "last_retested_at_epoch": 1589575393.075369,
-            "last_retested_at_iso": "2020-05-15T20:43:13.075369",
+            "last_retested_at_epoch": 1592869615.689748,
+            "last_retested_at_iso": "2020-06-22T23:46:55.689748",
             "status": "INACTIVE"
         },
         "www.trendtext.eu": {
