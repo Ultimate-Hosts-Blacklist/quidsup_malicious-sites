@@ -1312,12 +1312,12 @@
     "pdn-1.com": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "pdn-2.com": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "pdn-3.com": {
         "epoch": 1593216000,

@@ -10,8 +10,8 @@
         "None": {
             "included_at_epoch": 1588365035.0,
             "included_at_iso": "2020-05-01T20:30:35",
-            "last_retested_at_epoch": 1593119498.94003,
-            "last_retested_at_iso": "2020-06-25T21:11:38.940030",
+            "last_retested_at_epoch": 1593293773.253921,
+            "last_retested_at_iso": "2020-06-27T21:36:13.253921",
             "status": "INVALID"
         },
         "appmakedev.xyz": {
@@ -24,8 +24,8 @@
         "baidu.om": {
             "included_at_epoch": 1588364919.0,
             "included_at_iso": "2020-05-01T20:28:39",
-            "last_retested_at_epoch": 1593119161.680118,
-            "last_retested_at_iso": "2020-06-25T21:06:01.680118",
+            "last_retested_at_epoch": 1593293754.510428,
+            "last_retested_at_iso": "2020-06-27T21:35:54.510428",
             "status": "INACTIVE"
         },
         "browlinkdev.xyz": {
@@ -45,162 +45,169 @@
         "freecontent.faith": {
             "included_at_epoch": 1588364871.0,
             "included_at_iso": "2020-05-01T20:27:51",
-            "last_retested_at_epoch": 1593119448.322847,
-            "last_retested_at_iso": "2020-06-25T21:10:48.322847",
+            "last_retested_at_epoch": 1593293690.686918,
+            "last_retested_at_iso": "2020-06-27T21:34:50.686918",
             "status": "INACTIVE"
         },
         "freecontent.loan": {
             "included_at_epoch": 1588364870.0,
             "included_at_iso": "2020-05-01T20:27:50",
-            "last_retested_at_epoch": 1593119150.373579,
-            "last_retested_at_iso": "2020-06-25T21:05:50.373579",
+            "last_retested_at_epoch": 1593293512.588081,
+            "last_retested_at_iso": "2020-06-27T21:31:52.588081",
             "status": "INACTIVE"
         },
         "freecontent.party": {
             "included_at_epoch": 1588364884.0,
             "included_at_iso": "2020-05-01T20:28:04",
-            "last_retested_at_epoch": 1593119485.215524,
-            "last_retested_at_iso": "2020-06-25T21:11:25.215524",
+            "last_retested_at_epoch": 1593293733.428323,
+            "last_retested_at_iso": "2020-06-27T21:35:33.428323",
             "status": "INACTIVE"
         },
         "freecontent.racing": {
             "included_at_epoch": 1588364725.0,
             "included_at_iso": "2020-05-01T20:25:25",
-            "last_retested_at_epoch": 1593119192.278478,
-            "last_retested_at_iso": "2020-06-25T21:06:32.278478",
+            "last_retested_at_epoch": 1593293386.584202,
+            "last_retested_at_iso": "2020-06-27T21:29:46.584202",
             "status": "INACTIVE"
         },
         "freecontent.trade": {
             "included_at_epoch": 1588364767.0,
             "included_at_iso": "2020-05-01T20:26:07",
-            "last_retested_at_epoch": 1593119419.271494,
-            "last_retested_at_iso": "2020-06-25T21:10:19.271494",
+            "last_retested_at_epoch": 1593293666.006399,
+            "last_retested_at_iso": "2020-06-27T21:34:26.006399",
             "status": "INACTIVE"
         },
         "freecontent.win": {
             "included_at_epoch": 1588365027.0,
             "included_at_iso": "2020-05-01T20:30:27",
-            "last_retested_at_epoch": 1593119498.816792,
-            "last_retested_at_iso": "2020-06-25T21:11:38.816792",
+            "last_retested_at_epoch": 1593293783.023611,
+            "last_retested_at_iso": "2020-06-27T21:36:23.023611",
             "status": "INACTIVE"
         },
         "hmrc-cov19.payment.estrodev.com": {
             "included_at_epoch": 1588364870.0,
             "included_at_iso": "2020-05-01T20:27:50",
-            "last_retested_at_epoch": 1593119458.656492,
-            "last_retested_at_iso": "2020-06-25T21:10:58.656492",
+            "last_retested_at_epoch": 1593293679.586968,
+            "last_retested_at_iso": "2020-06-27T21:34:39.586968",
+            "status": "INACTIVE"
+        },
+        "hoholikik.club": {
+            "included_at_epoch": 1593293385.134872,
+            "included_at_iso": "2020-06-27T21:29:45.134872",
+            "last_retested_at_epoch": 1593293385.134872,
+            "last_retested_at_iso": "2020-06-27T21:29:45.134872",
             "status": "INACTIVE"
         },
         "hostingcloud.bid": {
             "included_at_epoch": 1588364715.0,
             "included_at_iso": "2020-05-01T20:25:15",
-            "last_retested_at_epoch": 1593119309.186861,
-            "last_retested_at_iso": "2020-06-25T21:08:29.186861",
+            "last_retested_at_epoch": 1593293689.314154,
+            "last_retested_at_iso": "2020-06-27T21:34:49.314154",
             "status": "INACTIVE"
         },
         "hostingcloud.date": {
             "included_at_epoch": 1588364743.0,
             "included_at_iso": "2020-05-01T20:25:43",
-            "last_retested_at_epoch": 1593119279.469737,
-            "last_retested_at_iso": "2020-06-25T21:07:59.469737",
+            "last_retested_at_epoch": 1593293571.407431,
+            "last_retested_at_iso": "2020-06-27T21:32:51.407431",
             "status": "INACTIVE"
         },
         "hostingcloud.download": {
             "included_at_epoch": 1588364834.0,
             "included_at_iso": "2020-05-01T20:27:14",
-            "last_retested_at_epoch": 1593119305.963009,
-            "last_retested_at_iso": "2020-06-25T21:08:25.963009",
+            "last_retested_at_epoch": 1593293428.780575,
+            "last_retested_at_iso": "2020-06-27T21:30:28.780575",
             "status": "INACTIVE"
         },
         "hostingcloud.loan": {
             "included_at_epoch": 1588364865.0,
             "included_at_iso": "2020-05-01T20:27:45",
-            "last_retested_at_epoch": 1593119159.075381,
-            "last_retested_at_iso": "2020-06-25T21:05:59.075381",
+            "last_retested_at_epoch": 1593293720.489176,
+            "last_retested_at_iso": "2020-06-27T21:35:20.489176",
             "status": "INACTIVE"
         },
         "hostingcloud.science": {
             "included_at_epoch": 1592826671.807647,
             "included_at_iso": "2020-06-22T11:51:11.807647",
-            "last_retested_at_epoch": 1593119461.147187,
-            "last_retested_at_iso": "2020-06-25T21:11:01.147187",
+            "last_retested_at_epoch": 1593293454.933467,
+            "last_retested_at_iso": "2020-06-27T21:30:54.933467",
             "status": "INACTIVE"
         },
         "jshosting.bid": {
             "included_at_epoch": 1588364689.0,
             "included_at_iso": "2020-05-01T20:24:49",
-            "last_retested_at_epoch": 1593119216.946579,
-            "last_retested_at_iso": "2020-06-25T21:06:56.946579",
+            "last_retested_at_epoch": 1593293608.525089,
+            "last_retested_at_iso": "2020-06-27T21:33:28.525089",
             "status": "INACTIVE"
         },
         "jshosting.date": {
             "included_at_epoch": 1588364686.0,
             "included_at_iso": "2020-05-01T20:24:46",
-            "last_retested_at_epoch": 1593119215.535043,
-            "last_retested_at_iso": "2020-06-25T21:06:55.535043",
+            "last_retested_at_epoch": 1593293666.960909,
+            "last_retested_at_iso": "2020-06-27T21:34:26.960909",
             "status": "INACTIVE"
         },
         "jshosting.download": {
             "included_at_epoch": 1588364696.0,
             "included_at_iso": "2020-05-01T20:24:56",
-            "last_retested_at_epoch": 1593119344.955167,
-            "last_retested_at_iso": "2020-06-25T21:09:04.955167",
+            "last_retested_at_epoch": 1593293555.94853,
+            "last_retested_at_iso": "2020-06-27T21:32:35.948530",
             "status": "INACTIVE"
         },
         "jshosting.loan": {
             "included_at_epoch": 1588364896.0,
             "included_at_iso": "2020-05-01T20:28:16",
-            "last_retested_at_epoch": 1593119420.121165,
-            "last_retested_at_iso": "2020-06-25T21:10:20.121165",
+            "last_retested_at_epoch": 1593293539.237166,
+            "last_retested_at_iso": "2020-06-27T21:32:19.237166",
             "status": "INACTIVE"
         },
         "jshosting.party": {
             "included_at_epoch": 1588364839.0,
             "included_at_iso": "2020-05-01T20:27:19",
-            "last_retested_at_epoch": 1593119468.918559,
-            "last_retested_at_iso": "2020-06-25T21:11:08.918559",
+            "last_retested_at_epoch": 1593293411.500821,
+            "last_retested_at_iso": "2020-06-27T21:30:11.500821",
             "status": "INACTIVE"
         },
         "jshosting.racing": {
             "included_at_epoch": 1588364994.0,
             "included_at_iso": "2020-05-01T20:29:54",
-            "last_retested_at_epoch": 1593119379.057013,
-            "last_retested_at_iso": "2020-06-25T21:09:39.057013",
+            "last_retested_at_epoch": 1593293577.067511,
+            "last_retested_at_iso": "2020-06-27T21:32:57.067511",
             "status": "INACTIVE"
         },
         "jshosting.review": {
             "included_at_epoch": 1588364819.0,
             "included_at_iso": "2020-05-01T20:26:59",
-            "last_retested_at_epoch": 1593119493.121914,
-            "last_retested_at_iso": "2020-06-25T21:11:33.121914",
+            "last_retested_at_epoch": 1593293664.868014,
+            "last_retested_at_iso": "2020-06-27T21:34:24.868014",
             "status": "INACTIVE"
         },
         "jshosting.stream": {
             "included_at_epoch": 1588364919.0,
             "included_at_iso": "2020-05-01T20:28:39",
-            "last_retested_at_epoch": 1593119255.801836,
-            "last_retested_at_iso": "2020-06-25T21:07:35.801836",
+            "last_retested_at_epoch": 1593293495.32448,
+            "last_retested_at_iso": "2020-06-27T21:31:35.324480",
             "status": "INACTIVE"
         },
         "jshosting.trade": {
             "included_at_epoch": 1588364974.0,
             "included_at_iso": "2020-05-01T20:29:34",
-            "last_retested_at_epoch": 1593119463.660681,
-            "last_retested_at_iso": "2020-06-25T21:11:03.660681",
+            "last_retested_at_epoch": 1593293701.328592,
+            "last_retested_at_iso": "2020-06-27T21:35:01.328592",
             "status": "INACTIVE"
         },
         "jshosting.win": {
             "included_at_epoch": 1588364885.0,
             "included_at_iso": "2020-05-01T20:28:05",
-            "last_retested_at_epoch": 1593119253.205396,
-            "last_retested_at_iso": "2020-06-25T21:07:33.205396",
+            "last_retested_at_epoch": 1593293502.694865,
+            "last_retested_at_iso": "2020-06-27T21:31:42.694865",
             "status": "INACTIVE"
         },
         "money-maker-default.info": {
             "included_at_epoch": 1588365027.0,
             "included_at_iso": "2020-05-01T20:30:27",
-            "last_retested_at_epoch": 1593119496.573062,
-            "last_retested_at_iso": "2020-06-25T21:11:36.573062",
+            "last_retested_at_epoch": 1593293764.32409,
+            "last_retested_at_iso": "2020-06-27T21:36:04.324090",
             "status": "INACTIVE"
         },
         "onlinesurveydaily.com": {
@@ -213,50 +220,50 @@
         "reliablesurfingext.biz": {
             "included_at_epoch": 1588365024.0,
             "included_at_iso": "2020-05-01T20:30:24",
-            "last_retested_at_epoch": 1593119501.881483,
-            "last_retested_at_iso": "2020-06-25T21:11:41.881483",
+            "last_retested_at_epoch": 1593293779.932095,
+            "last_retested_at_iso": "2020-06-27T21:36:19.932095",
             "status": "INACTIVE"
         },
         "roughted.com": {
             "included_at_epoch": 1588365028.0,
             "included_at_iso": "2020-05-01T20:30:28",
-            "last_retested_at_epoch": 1593119495.281824,
-            "last_retested_at_iso": "2020-06-25T21:11:35.281824",
+            "last_retested_at_epoch": 1593293773.598751,
+            "last_retested_at_iso": "2020-06-27T21:36:13.598751",
             "status": "INACTIVE"
         },
         "s4yxaqyq95.fuk": {
             "included_at_epoch": 1588365027.0,
             "included_at_iso": "2020-05-01T20:30:27",
-            "last_retested_at_epoch": 1593119508.039676,
-            "last_retested_at_iso": "2020-06-25T21:11:48.039676",
+            "last_retested_at_epoch": 1593293768.684944,
+            "last_retested_at_iso": "2020-06-27T21:36:08.684944",
             "status": "INVALID"
         },
         "safecreative.biz": {
             "included_at_epoch": 1588364906.0,
             "included_at_iso": "2020-05-01T20:28:26",
-            "last_retested_at_epoch": 1593119503.265611,
-            "last_retested_at_iso": "2020-06-25T21:11:43.265611",
+            "last_retested_at_epoch": 1593293771.371207,
+            "last_retested_at_iso": "2020-06-27T21:36:11.371207",
             "status": "INACTIVE"
         },
         "simplebookmark.info": {
             "included_at_epoch": 1588364957.0,
             "included_at_iso": "2020-05-01T20:29:17",
-            "last_retested_at_epoch": 1593119149.599272,
-            "last_retested_at_iso": "2020-06-25T21:05:49.599272",
+            "last_retested_at_epoch": 1593293422.827949,
+            "last_retested_at_iso": "2020-06-27T21:30:22.827949",
             "status": "INACTIVE"
         },
         "thatsocute.us": {
             "included_at_epoch": 1588364711.0,
             "included_at_iso": "2020-05-01T20:25:11",
-            "last_retested_at_epoch": 1593119401.935932,
-            "last_retested_at_iso": "2020-06-25T21:10:01.935932",
+            "last_retested_at_epoch": 1593293632.161425,
+            "last_retested_at_iso": "2020-06-27T21:33:52.161425",
             "status": "INACTIVE"
         },
         "trendtext.eu": {
             "included_at_epoch": 1588364943.0,
             "included_at_iso": "2020-05-01T20:29:03",
-            "last_retested_at_epoch": 1593119465.756468,
-            "last_retested_at_iso": "2020-06-25T21:11:05.756468",
+            "last_retested_at_epoch": 1593293531.713226,
+            "last_retested_at_iso": "2020-06-27T21:32:11.713226",
             "status": "INACTIVE"
         },
         "www.1kdailyprofit.biz": {
@@ -269,57 +276,57 @@
         "www.96.lt": {
             "included_at_epoch": 1588364899.0,
             "included_at_iso": "2020-05-01T20:28:19",
-            "last_retested_at_epoch": 1593119152.472606,
-            "last_retested_at_iso": "2020-06-25T21:05:52.472606",
+            "last_retested_at_epoch": 1593293418.800241,
+            "last_retested_at_iso": "2020-06-27T21:30:18.800241",
             "status": "INACTIVE"
         },
         "www.actextdev.com": {
             "included_at_epoch": 1588364741.0,
             "included_at_iso": "2020-05-01T20:25:41",
-            "last_retested_at_epoch": 1593119202.688145,
-            "last_retested_at_iso": "2020-06-25T21:06:42.688145",
+            "last_retested_at_epoch": 1593293650.488801,
+            "last_retested_at_iso": "2020-06-27T21:34:10.488801",
             "status": "INACTIVE"
         },
         "www.ad2up.com": {
             "included_at_epoch": 1588364900.0,
             "included_at_iso": "2020-05-01T20:28:20",
-            "last_retested_at_epoch": 1593119237.368399,
-            "last_retested_at_iso": "2020-06-25T21:07:17.368399",
+            "last_retested_at_epoch": 1593293728.524165,
+            "last_retested_at_iso": "2020-06-27T21:35:28.524165",
             "status": "INACTIVE"
         },
         "www.adaranth.com": {
             "included_at_epoch": 1588364717.0,
             "included_at_iso": "2020-05-01T20:25:17",
-            "last_retested_at_epoch": 1593119393.811799,
-            "last_retested_at_iso": "2020-06-25T21:09:53.811799",
+            "last_retested_at_epoch": 1593293639.901328,
+            "last_retested_at_iso": "2020-06-27T21:33:59.901328",
             "status": "INACTIVE"
         },
         "www.appmakedev.xyz": {
             "included_at_epoch": 1588364727.0,
             "included_at_iso": "2020-05-01T20:25:27",
-            "last_retested_at_epoch": 1593119153.434669,
-            "last_retested_at_iso": "2020-06-25T21:05:53.434669",
+            "last_retested_at_epoch": 1593293446.913959,
+            "last_retested_at_iso": "2020-06-27T21:30:46.913959",
             "status": "INACTIVE"
         },
         "www.appsource.cool": {
             "included_at_epoch": 1588364963.0,
             "included_at_iso": "2020-05-01T20:29:23",
-            "last_retested_at_epoch": 1593119392.915775,
-            "last_retested_at_iso": "2020-06-25T21:09:52.915775",
+            "last_retested_at_epoch": 1593293401.298702,
+            "last_retested_at_iso": "2020-06-27T21:30:01.298702",
             "status": "INACTIVE"
         },
         "www.attacketslovern.info": {
             "included_at_epoch": 1588364727.0,
             "included_at_iso": "2020-05-01T20:25:27",
-            "last_retested_at_epoch": 1593119378.072485,
-            "last_retested_at_iso": "2020-06-25T21:09:38.072485",
+            "last_retested_at_epoch": 1593293510.608934,
+            "last_retested_at_iso": "2020-06-27T21:31:50.608934",
             "status": "INACTIVE"
         },
         "www.baidu.om": {
             "included_at_epoch": 1588364918.0,
             "included_at_iso": "2020-05-01T20:28:38",
-            "last_retested_at_epoch": 1593119161.681206,
-            "last_retested_at_iso": "2020-06-25T21:06:01.681206",
+            "last_retested_at_epoch": 1593293754.40473,
+            "last_retested_at_iso": "2020-06-27T21:35:54.404730",
             "status": "INACTIVE"
         },
         "www.barenudism.com": {
@@ -332,22 +339,22 @@
         "www.beeforced.com": {
             "included_at_epoch": 1590616210.648988,
             "included_at_iso": "2020-05-27T21:50:10.648988",
-            "last_retested_at_epoch": 1593119399.147555,
-            "last_retested_at_iso": "2020-06-25T21:09:59.147555",
+            "last_retested_at_epoch": 1593293664.398593,
+            "last_retested_at_iso": "2020-06-27T21:34:24.398593",
             "status": "INACTIVE"
         },
         "www.bestadbid.com": {
             "included_at_epoch": 1588364950.0,
             "included_at_iso": "2020-05-01T20:29:10",
-            "last_retested_at_epoch": 1593119276.776798,
-            "last_retested_at_iso": "2020-06-25T21:07:56.776798",
+            "last_retested_at_epoch": 1593293665.399302,
+            "last_retested_at_iso": "2020-06-27T21:34:25.399302",
             "status": "INACTIVE"
         },
         "www.bestupdatemeta.com": {
             "included_at_epoch": 1588364703.0,
             "included_at_iso": "2020-05-01T20:25:03",
-            "last_retested_at_epoch": 1593119368.322513,
-            "last_retested_at_iso": "2020-06-25T21:09:28.322513",
+            "last_retested_at_epoch": 1593293595.464862,
+            "last_retested_at_iso": "2020-06-27T21:33:15.464862",
             "status": "INACTIVE"
         },
         "www.biosframe.com": {
@@ -360,15 +367,15 @@
         "www.boudja.com": {
             "included_at_epoch": 1588364832.0,
             "included_at_iso": "2020-05-01T20:27:12",
-            "last_retested_at_epoch": 1593119221.962698,
-            "last_retested_at_iso": "2020-06-25T21:07:01.962698",
+            "last_retested_at_epoch": 1593293713.364132,
+            "last_retested_at_iso": "2020-06-27T21:35:13.364132",
             "status": "INACTIVE"
         },
         "www.browlinkdev.xyz": {
             "included_at_epoch": 1588364865.0,
             "included_at_iso": "2020-05-01T20:27:45",
-            "last_retested_at_epoch": 1593119411.338062,
-            "last_retested_at_iso": "2020-06-25T21:10:11.338062",
+            "last_retested_at_epoch": 1593293533.706717,
+            "last_retested_at_iso": "2020-06-27T21:32:13.706717",
             "status": "INACTIVE"
         },
         "www.buycritical.com": {
@@ -381,29 +388,29 @@
         "www.cardinaldata.net": {
             "included_at_epoch": 1588364750.0,
             "included_at_iso": "2020-05-01T20:25:50",
-            "last_retested_at_epoch": 1593119208.728712,
-            "last_retested_at_iso": "2020-06-25T21:06:48.728712",
+            "last_retested_at_epoch": 1593293629.77479,
+            "last_retested_at_iso": "2020-06-27T21:33:49.774790",
             "status": "INACTIVE"
         },
         "www.changemind.monster": {
             "included_at_epoch": 1588365025.0,
             "included_at_iso": "2020-05-01T20:30:25",
-            "last_retested_at_epoch": 1593119504.390575,
-            "last_retested_at_iso": "2020-06-25T21:11:44.390575",
+            "last_retested_at_epoch": 1593293774.499552,
+            "last_retested_at_iso": "2020-06-27T21:36:14.499552",
             "status": "INACTIVE"
         },
         "www.clonyjohn.com": {
             "included_at_epoch": 1588364982.0,
             "included_at_iso": "2020-05-01T20:29:42",
-            "last_retested_at_epoch": 1593119311.235274,
-            "last_retested_at_iso": "2020-06-25T21:08:31.235274",
+            "last_retested_at_epoch": 1593293538.804197,
+            "last_retested_at_iso": "2020-06-27T21:32:18.804197",
             "status": "INACTIVE"
         },
         "www.closemike.com": {
             "included_at_epoch": 1588364871.0,
             "included_at_iso": "2020-05-01T20:27:51",
-            "last_retested_at_epoch": 1593119375.425558,
-            "last_retested_at_iso": "2020-06-25T21:09:35.425558",
+            "last_retested_at_epoch": 1593293563.158945,
+            "last_retested_at_iso": "2020-06-27T21:32:43.158945",
             "status": "INACTIVE"
         },
         "www.cloudesky.com": {
@@ -416,57 +423,57 @@
         "www.coconut.rocks": {
             "included_at_epoch": 1592686540.015986,
             "included_at_iso": "2020-06-20T20:55:40.015986",
-            "last_retested_at_epoch": 1593119361.047608,
-            "last_retested_at_iso": "2020-06-25T21:09:21.047608",
+            "last_retested_at_epoch": 1593293533.252645,
+            "last_retested_at_iso": "2020-06-27T21:32:13.252645",
             "status": "INACTIVE"
         },
         "www.covid19-info.online": {
             "included_at_epoch": 1588364731.0,
             "included_at_iso": "2020-05-01T20:25:31",
-            "last_retested_at_epoch": 1593119219.622517,
-            "last_retested_at_iso": "2020-06-25T21:06:59.622517",
+            "last_retested_at_epoch": 1593293415.378874,
+            "last_retested_at_iso": "2020-06-27T21:30:15.378874",
             "status": "INACTIVE"
         },
         "www.dardendly.info": {
             "included_at_epoch": 1588364932.0,
             "included_at_iso": "2020-05-01T20:28:52",
-            "last_retested_at_epoch": 1593119399.84686,
-            "last_retested_at_iso": "2020-06-25T21:09:59.846860",
+            "last_retested_at_epoch": 1593293633.266503,
+            "last_retested_at_iso": "2020-06-27T21:33:53.266503",
             "status": "INACTIVE"
         },
         "www.data1rtb.com": {
             "included_at_epoch": 1588364696.0,
             "included_at_iso": "2020-05-01T20:24:56",
-            "last_retested_at_epoch": 1593119363.676038,
-            "last_retested_at_iso": "2020-06-25T21:09:23.676038",
+            "last_retested_at_epoch": 1593293683.420907,
+            "last_retested_at_iso": "2020-06-27T21:34:43.420907",
             "status": "INACTIVE"
         },
         "www.datapro.website": {
             "included_at_epoch": 1588364846.0,
             "included_at_iso": "2020-05-01T20:27:26",
-            "last_retested_at_epoch": 1593119436.99786,
-            "last_retested_at_iso": "2020-06-25T21:10:36.997860",
+            "last_retested_at_epoch": 1593293518.895316,
+            "last_retested_at_iso": "2020-06-27T21:31:58.895316",
             "status": "INACTIVE"
         },
         "www.debrahinton.pro": {
             "included_at_epoch": 1588364864.0,
             "included_at_iso": "2020-05-01T20:27:44",
-            "last_retested_at_epoch": 1593119172.118469,
-            "last_retested_at_iso": "2020-06-25T21:06:12.118469",
+            "last_retested_at_epoch": 1593293668.322046,
+            "last_retested_at_iso": "2020-06-27T21:34:28.322046",
             "status": "INACTIVE"
         },
         "www.deloplen.com": {
             "included_at_epoch": 1588364886.0,
             "included_at_iso": "2020-05-01T20:28:06",
-            "last_retested_at_epoch": 1593119364.06301,
-            "last_retested_at_iso": "2020-06-25T21:09:24.063010",
+            "last_retested_at_epoch": 1593293683.858513,
+            "last_retested_at_iso": "2020-06-27T21:34:43.858513",
             "status": "INACTIVE"
         },
         "www.devappstor.com": {
             "included_at_epoch": 1588364774.0,
             "included_at_iso": "2020-05-01T20:26:14",
-            "last_retested_at_epoch": 1593119289.20389,
-            "last_retested_at_iso": "2020-06-25T21:08:09.203890",
+            "last_retested_at_epoch": 1593293618.736069,
+            "last_retested_at_iso": "2020-06-27T21:33:38.736069",
             "status": "INACTIVE"
         },
         "www.domaincdn.xyz": {
@@ -479,22 +486,22 @@
         "www.domclickext.xyz": {
             "included_at_epoch": 1588364728.0,
             "included_at_iso": "2020-05-01T20:25:28",
-            "last_retested_at_epoch": 1593119221.343004,
-            "last_retested_at_iso": "2020-06-25T21:07:01.343004",
+            "last_retested_at_epoch": 1593293572.349503,
+            "last_retested_at_iso": "2020-06-27T21:32:52.349503",
             "status": "INACTIVE"
         },
         "www.donation-tools.org": {
             "included_at_epoch": 1588364917.0,
             "included_at_iso": "2020-05-01T20:28:37",
-            "last_retested_at_epoch": 1593119346.872559,
-            "last_retested_at_iso": "2020-06-25T21:09:06.872559",
+            "last_retested_at_epoch": 1593293546.982974,
+            "last_retested_at_iso": "2020-06-27T21:32:26.982974",
             "status": "INACTIVE"
         },
         "www.drivensource.net": {
             "included_at_epoch": 1590616355.476883,
             "included_at_iso": "2020-05-27T21:52:35.476883",
-            "last_retested_at_epoch": 1593119233.475503,
-            "last_retested_at_iso": "2020-06-25T21:07:13.475503",
+            "last_retested_at_epoch": 1593293686.03088,
+            "last_retested_at_iso": "2020-06-27T21:34:46.030880",
             "status": "INACTIVE"
         },
         "www.edatasales.com": {
@@ -507,281 +514,281 @@
         "www.epicunitscan.info": {
             "included_at_epoch": 1588364851.0,
             "included_at_iso": "2020-05-01T20:27:31",
-            "last_retested_at_epoch": 1593119372.61131,
-            "last_retested_at_iso": "2020-06-25T21:09:32.611310",
+            "last_retested_at_epoch": 1593293702.314397,
+            "last_retested_at_iso": "2020-06-27T21:35:02.314397",
             "status": "INACTIVE"
         },
         "www.extcuptool.com": {
             "included_at_epoch": 1588364863.0,
             "included_at_iso": "2020-05-01T20:27:43",
-            "last_retested_at_epoch": 1593119359.811814,
-            "last_retested_at_iso": "2020-06-25T21:09:19.811814",
+            "last_retested_at_epoch": 1593293711.65518,
+            "last_retested_at_iso": "2020-06-27T21:35:11.655180",
             "status": "INACTIVE"
         },
         "www.extnotecat.com": {
             "included_at_epoch": 1588364756.0,
             "included_at_iso": "2020-05-01T20:25:56",
-            "last_retested_at_epoch": 1593119297.575424,
-            "last_retested_at_iso": "2020-06-25T21:08:17.575424",
+            "last_retested_at_epoch": 1593293742.631364,
+            "last_retested_at_iso": "2020-06-27T21:35:42.631364",
             "status": "INACTIVE"
         },
         "www.freecalculation.com": {
             "included_at_epoch": 1588365033.0,
             "included_at_iso": "2020-05-01T20:30:33",
-            "last_retested_at_epoch": 1593119499.461246,
-            "last_retested_at_iso": "2020-06-25T21:11:39.461246",
+            "last_retested_at_epoch": 1593293775.198016,
+            "last_retested_at_iso": "2020-06-27T21:36:15.198016",
             "status": "INACTIVE"
         },
         "www.freecontent.faith": {
             "included_at_epoch": 1588364871.0,
             "included_at_iso": "2020-05-01T20:27:51",
-            "last_retested_at_epoch": 1593119448.322006,
-            "last_retested_at_iso": "2020-06-25T21:10:48.322006",
+            "last_retested_at_epoch": 1593293690.873443,
+            "last_retested_at_iso": "2020-06-27T21:34:50.873443",
             "status": "INACTIVE"
         },
         "www.freecontent.loan": {
             "included_at_epoch": 1588364870.0,
             "included_at_iso": "2020-05-01T20:27:50",
-            "last_retested_at_epoch": 1593119150.588183,
-            "last_retested_at_iso": "2020-06-25T21:05:50.588183",
+            "last_retested_at_epoch": 1593293512.395238,
+            "last_retested_at_iso": "2020-06-27T21:31:52.395238",
             "status": "INACTIVE"
         },
         "www.freecontent.party": {
             "included_at_epoch": 1588364884.0,
             "included_at_iso": "2020-05-01T20:28:04",
-            "last_retested_at_epoch": 1593119485.203489,
-            "last_retested_at_iso": "2020-06-25T21:11:25.203489",
+            "last_retested_at_epoch": 1593293733.740878,
+            "last_retested_at_iso": "2020-06-27T21:35:33.740878",
             "status": "INACTIVE"
         },
         "www.freecontent.racing": {
             "included_at_epoch": 1588364726.0,
             "included_at_iso": "2020-05-01T20:25:26",
-            "last_retested_at_epoch": 1593119192.25694,
-            "last_retested_at_iso": "2020-06-25T21:06:32.256940",
+            "last_retested_at_epoch": 1593293386.673758,
+            "last_retested_at_iso": "2020-06-27T21:29:46.673758",
             "status": "INACTIVE"
         },
         "www.freecontent.science": {
             "included_at_epoch": 1588364964.0,
             "included_at_iso": "2020-05-01T20:29:24",
-            "last_retested_at_epoch": 1593119311.489416,
-            "last_retested_at_iso": "2020-06-25T21:08:31.489416",
+            "last_retested_at_epoch": 1593293686.480422,
+            "last_retested_at_iso": "2020-06-27T21:34:46.480422",
             "status": "INACTIVE"
         },
         "www.freecontent.trade": {
             "included_at_epoch": 1588364767.0,
             "included_at_iso": "2020-05-01T20:26:07",
-            "last_retested_at_epoch": 1593119419.231745,
-            "last_retested_at_iso": "2020-06-25T21:10:19.231745",
+            "last_retested_at_epoch": 1593293665.849694,
+            "last_retested_at_iso": "2020-06-27T21:34:25.849694",
             "status": "INACTIVE"
         },
         "www.freecontent.win": {
             "included_at_epoch": 1588365027.0,
             "included_at_iso": "2020-05-01T20:30:27",
-            "last_retested_at_epoch": 1593119498.79072,
-            "last_retested_at_iso": "2020-06-25T21:11:38.790720",
+            "last_retested_at_epoch": 1593293783.037931,
+            "last_retested_at_iso": "2020-06-27T21:36:23.037931",
             "status": "INACTIVE"
         },
         "www.giveaways-nl.com": {
             "included_at_epoch": 1588364726.0,
             "included_at_iso": "2020-05-01T20:25:26",
-            "last_retested_at_epoch": 1593119277.7681,
-            "last_retested_at_iso": "2020-06-25T21:07:57.768100",
+            "last_retested_at_epoch": 1593293578.824218,
+            "last_retested_at_iso": "2020-06-27T21:32:58.824218",
             "status": "INACTIVE"
         },
         "www.glganltcs.space": {
             "included_at_epoch": 1592342145.103975,
             "included_at_iso": "2020-06-16T21:15:45.103975",
-            "last_retested_at_epoch": 1593119220.408608,
-            "last_retested_at_iso": "2020-06-25T21:07:00.408608",
+            "last_retested_at_epoch": 1593293717.743918,
+            "last_retested_at_iso": "2020-06-27T21:35:17.743918",
             "status": "INACTIVE"
         },
         "www.globalmdx.club": {
             "included_at_epoch": 1588364928.0,
             "included_at_iso": "2020-05-01T20:28:48",
-            "last_retested_at_epoch": 1593119499.697719,
-            "last_retested_at_iso": "2020-06-25T21:11:39.697719",
+            "last_retested_at_epoch": 1593293775.602733,
+            "last_retested_at_iso": "2020-06-27T21:36:15.602733",
             "status": "INACTIVE"
         },
         "www.globaloffers.link": {
             "included_at_epoch": 1593119145.542521,
             "included_at_iso": "2020-06-25T21:05:45.542521",
-            "last_retested_at_epoch": 1593119145.542521,
-            "last_retested_at_iso": "2020-06-25T21:05:45.542521",
+            "last_retested_at_epoch": 1593293586.075448,
+            "last_retested_at_iso": "2020-06-27T21:33:06.075448",
             "status": "INACTIVE"
         },
         "www.go5news.biz": {
             "included_at_epoch": 1592686635.881083,
             "included_at_iso": "2020-06-20T20:57:15.881083",
-            "last_retested_at_epoch": 1593119372.208336,
-            "last_retested_at_iso": "2020-06-25T21:09:32.208336",
+            "last_retested_at_epoch": 1593293512.97981,
+            "last_retested_at_iso": "2020-06-27T21:31:52.979810",
             "status": "INACTIVE"
         },
         "www.groproext.com": {
             "included_at_epoch": 1588364702.0,
             "included_at_iso": "2020-05-01T20:25:02",
-            "last_retested_at_epoch": 1593119492.005409,
-            "last_retested_at_iso": "2020-06-25T21:11:32.005409",
+            "last_retested_at_epoch": 1593293700.190281,
+            "last_retested_at_iso": "2020-06-27T21:35:00.190281",
             "status": "INACTIVE"
         },
         "www.gusimp.net": {
             "included_at_epoch": 1588364944.0,
             "included_at_iso": "2020-05-01T20:29:04",
-            "last_retested_at_epoch": 1593119256.652591,
-            "last_retested_at_iso": "2020-06-25T21:07:36.652591",
+            "last_retested_at_epoch": 1593293755.746703,
+            "last_retested_at_iso": "2020-06-27T21:35:55.746703",
             "status": "INACTIVE"
         },
         "www.healthandfitnessus.com": {
             "included_at_epoch": 1588364802.0,
             "included_at_iso": "2020-05-01T20:26:42",
-            "last_retested_at_epoch": 1593119266.599394,
-            "last_retested_at_iso": "2020-06-25T21:07:46.599394",
+            "last_retested_at_epoch": 1593293494.374429,
+            "last_retested_at_iso": "2020-06-27T21:31:34.374429",
             "status": "INACTIVE"
         },
         "www.hoholikik.club": {
             "included_at_epoch": 1590093474.802975,
             "included_at_iso": "2020-05-21T20:37:54.802975",
-            "last_retested_at_epoch": 1593119378.73816,
-            "last_retested_at_iso": "2020-06-25T21:09:38.738160",
+            "last_retested_at_epoch": 1593293385.133769,
+            "last_retested_at_iso": "2020-06-27T21:29:45.133769",
             "status": "INACTIVE"
         },
         "www.hostingcloud.bid": {
             "included_at_epoch": 1588364715.0,
             "included_at_iso": "2020-05-01T20:25:15",
-            "last_retested_at_epoch": 1593119309.149321,
-            "last_retested_at_iso": "2020-06-25T21:08:29.149321",
+            "last_retested_at_epoch": 1593293689.218336,
+            "last_retested_at_iso": "2020-06-27T21:34:49.218336",
             "status": "INACTIVE"
         },
         "www.hostingcloud.date": {
             "included_at_epoch": 1588364743.0,
             "included_at_iso": "2020-05-01T20:25:43",
-            "last_retested_at_epoch": 1593119279.429295,
-            "last_retested_at_iso": "2020-06-25T21:07:59.429295",
+            "last_retested_at_epoch": 1593293571.450603,
+            "last_retested_at_iso": "2020-06-27T21:32:51.450603",
             "status": "INACTIVE"
         },
         "www.hostingcloud.download": {
             "included_at_epoch": 1588364834.0,
             "included_at_iso": "2020-05-01T20:27:14",
-            "last_retested_at_epoch": 1593119305.958341,
-            "last_retested_at_iso": "2020-06-25T21:08:25.958341",
+            "last_retested_at_epoch": 1593293428.73703,
+            "last_retested_at_iso": "2020-06-27T21:30:28.737030",
             "status": "INACTIVE"
         },
         "www.hostingcloud.loan": {
             "included_at_epoch": 1588364865.0,
             "included_at_iso": "2020-05-01T20:27:45",
-            "last_retested_at_epoch": 1593119159.02848,
-            "last_retested_at_iso": "2020-06-25T21:05:59.028480",
+            "last_retested_at_epoch": 1593293720.490267,
+            "last_retested_at_iso": "2020-06-27T21:35:20.490267",
             "status": "INACTIVE"
         },
         "www.hostingcloud.science": {
             "included_at_epoch": 1588364819.0,
             "included_at_iso": "2020-05-01T20:26:59",
-            "last_retested_at_epoch": 1593119461.146407,
-            "last_retested_at_iso": "2020-06-25T21:11:01.146407",
+            "last_retested_at_epoch": 1593293454.995923,
+            "last_retested_at_iso": "2020-06-27T21:30:54.995923",
             "status": "INACTIVE"
         },
         "www.imgfarm.com": {
             "included_at_epoch": 1588364922.0,
             "included_at_iso": "2020-05-01T20:28:42",
-            "last_retested_at_epoch": 1593119405.681579,
-            "last_retested_at_iso": "2020-06-25T21:10:05.681579",
+            "last_retested_at_epoch": 1593293633.61315,
+            "last_retested_at_iso": "2020-06-27T21:33:53.613150",
             "status": "INACTIVE"
         },
         "www.infoanalytics.tools": {
             "included_at_epoch": 1592869614.64675,
             "included_at_iso": "2020-06-22T23:46:54.646750",
-            "last_retested_at_epoch": 1593119235.563979,
-            "last_retested_at_iso": "2020-06-25T21:07:15.563979",
+            "last_retested_at_epoch": 1593293751.656886,
+            "last_retested_at_iso": "2020-06-27T21:35:51.656886",
             "status": "INACTIVE"
         },
         "www.investing-review.com": {
             "included_at_epoch": 1590266024.488783,
             "included_at_iso": "2020-05-23T20:33:44.488783",
-            "last_retested_at_epoch": 1593119375.847169,
-            "last_retested_at_iso": "2020-06-25T21:09:35.847169",
+            "last_retested_at_epoch": 1593293751.13443,
+            "last_retested_at_iso": "2020-06-27T21:35:51.134430",
             "status": "INACTIVE"
         },
         "www.ironbeast.io": {
             "included_at_epoch": 1588364813.0,
             "included_at_iso": "2020-05-01T20:26:53",
-            "last_retested_at_epoch": 1593119441.691792,
-            "last_retested_at_iso": "2020-06-25T21:10:41.691792",
+            "last_retested_at_epoch": 1593293601.782526,
+            "last_retested_at_iso": "2020-06-27T21:33:21.782526",
             "status": "INACTIVE"
         },
         "www.jshosting.bid": {
             "included_at_epoch": 1588364689.0,
             "included_at_iso": "2020-05-01T20:24:49",
-            "last_retested_at_epoch": 1593119216.946404,
-            "last_retested_at_iso": "2020-06-25T21:06:56.946404",
+            "last_retested_at_epoch": 1593293608.524241,
+            "last_retested_at_iso": "2020-06-27T21:33:28.524241",
             "status": "INACTIVE"
         },
         "www.jshosting.date": {
             "included_at_epoch": 1588364686.0,
             "included_at_iso": "2020-05-01T20:24:46",
-            "last_retested_at_epoch": 1593119215.554251,
-            "last_retested_at_iso": "2020-06-25T21:06:55.554251",
+            "last_retested_at_epoch": 1593293667.019987,
+            "last_retested_at_iso": "2020-06-27T21:34:27.019987",
             "status": "INACTIVE"
         },
         "www.jshosting.download": {
             "included_at_epoch": 1588364696.0,
             "included_at_iso": "2020-05-01T20:24:56",
-            "last_retested_at_epoch": 1593119344.954153,
-            "last_retested_at_iso": "2020-06-25T21:09:04.954153",
+            "last_retested_at_epoch": 1593293555.980467,
+            "last_retested_at_iso": "2020-06-27T21:32:35.980467",
             "status": "INACTIVE"
         },
         "www.jshosting.loan": {
             "included_at_epoch": 1588364896.0,
             "included_at_iso": "2020-05-01T20:28:16",
-            "last_retested_at_epoch": 1593119420.094375,
-            "last_retested_at_iso": "2020-06-25T21:10:20.094375",
+            "last_retested_at_epoch": 1593293539.327539,
+            "last_retested_at_iso": "2020-06-27T21:32:19.327539",
             "status": "INACTIVE"
         },
         "www.jshosting.party": {
             "included_at_epoch": 1588364839.0,
             "included_at_iso": "2020-05-01T20:27:19",
-            "last_retested_at_epoch": 1593119468.887987,
-            "last_retested_at_iso": "2020-06-25T21:11:08.887987",
+            "last_retested_at_epoch": 1593293411.295952,
+            "last_retested_at_iso": "2020-06-27T21:30:11.295952",
             "status": "INACTIVE"
         },
         "www.jshosting.racing": {
             "included_at_epoch": 1588364994.0,
             "included_at_iso": "2020-05-01T20:29:54",
-            "last_retested_at_epoch": 1593119379.013043,
-            "last_retested_at_iso": "2020-06-25T21:09:39.013043",
+            "last_retested_at_epoch": 1593293577.068479,
+            "last_retested_at_iso": "2020-06-27T21:32:57.068479",
             "status": "INACTIVE"
         },
         "www.jshosting.review": {
             "included_at_epoch": 1588364819.0,
             "included_at_iso": "2020-05-01T20:26:59",
-            "last_retested_at_epoch": 1593119493.090576,
-            "last_retested_at_iso": "2020-06-25T21:11:33.090576",
+            "last_retested_at_epoch": 1593293664.980776,
+            "last_retested_at_iso": "2020-06-27T21:34:24.980776",
             "status": "INACTIVE"
         },
         "www.jshosting.stream": {
             "included_at_epoch": 1588364919.0,
             "included_at_iso": "2020-05-01T20:28:39",
-            "last_retested_at_epoch": 1593119255.827224,
-            "last_retested_at_iso": "2020-06-25T21:07:35.827224",
+            "last_retested_at_epoch": 1593293495.41049,
+            "last_retested_at_iso": "2020-06-27T21:31:35.410490",
             "status": "INACTIVE"
         },
         "www.jshosting.trade": {
             "included_at_epoch": 1588364974.0,
             "included_at_iso": "2020-05-01T20:29:34",
-            "last_retested_at_epoch": 1593119463.626901,
-            "last_retested_at_iso": "2020-06-25T21:11:03.626901",
+            "last_retested_at_epoch": 1593293701.275346,
+            "last_retested_at_iso": "2020-06-27T21:35:01.275346",
             "status": "INACTIVE"
         },
         "www.jshosting.win": {
             "included_at_epoch": 1588364885.0,
             "included_at_iso": "2020-05-01T20:28:05",
-            "last_retested_at_epoch": 1593119253.204631,
-            "last_retested_at_iso": "2020-06-25T21:07:33.204631",
+            "last_retested_at_epoch": 1593293502.764212,
+            "last_retested_at_iso": "2020-06-27T21:31:42.764212",
             "status": "INACTIVE"
         },
         "www.lalaping.com": {
             "included_at_epoch": 1588364997.0,
             "included_at_iso": "2020-05-01T20:29:57",
-            "last_retested_at_epoch": 1593119184.768197,
-            "last_retested_at_iso": "2020-06-25T21:06:24.768197",
+            "last_retested_at_epoch": 1593293720.002204,
+            "last_retested_at_iso": "2020-06-27T21:35:20.002204",
             "status": "INACTIVE"
         },
         "www.lhzbdvm.com": {
@@ -794,36 +801,36 @@
         "www.luckypushh.com": {
             "included_at_epoch": 1588364765.0,
             "included_at_iso": "2020-05-01T20:26:05",
-            "last_retested_at_epoch": 1593119140.520155,
-            "last_retested_at_iso": "2020-06-25T21:05:40.520155",
+            "last_retested_at_epoch": 1593293758.522316,
+            "last_retested_at_iso": "2020-06-27T21:35:58.522316",
             "status": "INACTIVE"
         },
         "www.lucretius-ada.com": {
             "included_at_epoch": 1591131234.536926,
             "included_at_iso": "2020-06-02T20:53:54.536926",
-            "last_retested_at_epoch": 1593119369.547179,
-            "last_retested_at_iso": "2020-06-25T21:09:29.547179",
+            "last_retested_at_epoch": 1593293463.294248,
+            "last_retested_at_iso": "2020-06-27T21:31:03.294248",
             "status": "INACTIVE"
         },
         "www.makefailed.com": {
             "included_at_epoch": 1590616267.643814,
             "included_at_iso": "2020-05-27T21:51:07.643814",
-            "last_retested_at_epoch": 1593119289.644199,
-            "last_retested_at_iso": "2020-06-25T21:08:09.644199",
+            "last_retested_at_epoch": 1593293417.574545,
+            "last_retested_at_iso": "2020-06-27T21:30:17.574545",
             "status": "INACTIVE"
         },
         "www.metrext.com": {
             "included_at_epoch": 1588710976.218465,
             "included_at_iso": "2020-05-05T20:36:16.218465",
-            "last_retested_at_epoch": 1593119157.16502,
-            "last_retested_at_iso": "2020-06-25T21:05:57.165020",
+            "last_retested_at_epoch": 1593293530.966055,
+            "last_retested_at_iso": "2020-06-27T21:32:10.966055",
             "status": "INACTIVE"
         },
         "www.mixappdev.com": {
             "included_at_epoch": 1588364883.0,
             "included_at_iso": "2020-05-01T20:28:03",
-            "last_retested_at_epoch": 1593119484.400098,
-            "last_retested_at_iso": "2020-06-25T21:11:24.400098",
+            "last_retested_at_epoch": 1593293484.937776,
+            "last_retested_at_iso": "2020-06-27T21:31:24.937776",
             "status": "INACTIVE"
         },
         "www.mobileoffers-ce-download.com": {
@@ -836,22 +843,22 @@
         "www.mobileoffers-co-download.com": {
             "included_at_epoch": 1588364869.0,
             "included_at_iso": "2020-05-01T20:27:49",
-            "last_retested_at_epoch": 1593119506.566839,
-            "last_retested_at_iso": "2020-06-25T21:11:46.566839",
+            "last_retested_at_epoch": 1593293773.120617,
+            "last_retested_at_iso": "2020-06-27T21:36:13.120617",
             "status": "INACTIVE"
         },
         "www.money-maker-default.info": {
             "included_at_epoch": 1588365027.0,
             "included_at_iso": "2020-05-01T20:30:27",
-            "last_retested_at_epoch": 1593119496.407626,
-            "last_retested_at_iso": "2020-06-25T21:11:36.407626",
+            "last_retested_at_epoch": 1593293764.171165,
+            "last_retested_at_iso": "2020-06-27T21:36:04.171165",
             "status": "INACTIVE"
         },
         "www.mppmnetwork.com": {
             "included_at_epoch": 1588364947.0,
             "included_at_iso": "2020-05-01T20:29:07",
-            "last_retested_at_epoch": 1593119484.933033,
-            "last_retested_at_iso": "2020-06-25T21:11:24.933033",
+            "last_retested_at_epoch": 1593293667.405176,
+            "last_retested_at_iso": "2020-06-27T21:34:27.405176",
             "status": "INACTIVE"
         },
         "www.mwor.gq": {
@@ -864,15 +871,15 @@
         "www.netanalyzer.space": {
             "included_at_epoch": 1588364783.0,
             "included_at_iso": "2020-05-01T20:26:23",
-            "last_retested_at_epoch": 1593119374.324631,
-            "last_retested_at_iso": "2020-06-25T21:09:34.324631",
+            "last_retested_at_epoch": 1593293713.787939,
+            "last_retested_at_iso": "2020-06-27T21:35:13.787939",
             "status": "INACTIVE"
         },
         "www.netcomfort.org": {
             "included_at_epoch": 1588364841.0,
             "included_at_iso": "2020-05-01T20:27:21",
-            "last_retested_at_epoch": 1593119132.236156,
-            "last_retested_at_iso": "2020-06-25T21:05:32.236156",
+            "last_retested_at_epoch": 1593293653.332383,
+            "last_retested_at_iso": "2020-06-27T21:34:13.332383",
             "status": "INACTIVE"
         },
         "www.news-bbc-uk.com": {
@@ -892,22 +899,22 @@
         "www.nuxues.com": {
             "included_at_epoch": 1588364934.0,
             "included_at_iso": "2020-05-01T20:28:54",
-            "last_retested_at_epoch": 1593119154.857403,
-            "last_retested_at_iso": "2020-06-25T21:05:54.857403",
+            "last_retested_at_epoch": 1593293477.527034,
+            "last_retested_at_iso": "2020-06-27T21:31:17.527034",
             "status": "INACTIVE"
         },
         "www.ofgogoatan.com": {
             "included_at_epoch": 1589575326.180943,
             "included_at_iso": "2020-05-15T20:42:06.180943",
-            "last_retested_at_epoch": 1593119398.80477,
-            "last_retested_at_iso": "2020-06-25T21:09:58.804770",
+            "last_retested_at_epoch": 1593293501.505521,
+            "last_retested_at_iso": "2020-06-27T21:31:41.505521",
             "status": "INACTIVE"
         },
         "www.onlinekey.biz": {
             "included_at_epoch": 1588364786.0,
             "included_at_iso": "2020-05-01T20:26:26",
-            "last_retested_at_epoch": 1593119427.198039,
-            "last_retested_at_iso": "2020-06-25T21:10:27.198039",
+            "last_retested_at_epoch": 1593293544.688457,
+            "last_retested_at_iso": "2020-06-27T21:32:24.688457",
             "status": "INACTIVE"
         },
         "www.onlinesurveydaily.com": {
@@ -920,29 +927,29 @@
         "www.osdrivers.win": {
             "included_at_epoch": 1588364896.0,
             "included_at_iso": "2020-05-01T20:28:16",
-            "last_retested_at_epoch": 1593119418.515184,
-            "last_retested_at_iso": "2020-06-25T21:10:18.515184",
+            "last_retested_at_epoch": 1593293563.572088,
+            "last_retested_at_iso": "2020-06-27T21:32:43.572088",
             "status": "INACTIVE"
         },
         "www.packsonikolas.info": {
             "included_at_epoch": 1588365026.0,
             "included_at_iso": "2020-05-01T20:30:26",
-            "last_retested_at_epoch": 1593119510.677399,
-            "last_retested_at_iso": "2020-06-25T21:11:50.677399",
+            "last_retested_at_epoch": 1593293775.988957,
+            "last_retested_at_iso": "2020-06-27T21:36:15.988957",
             "status": "INACTIVE"
         },
         "www.pageanalytics.space": {
             "included_at_epoch": 1588364725.0,
             "included_at_iso": "2020-05-01T20:25:25",
-            "last_retested_at_epoch": 1593119268.700035,
-            "last_retested_at_iso": "2020-06-25T21:07:48.700035",
+            "last_retested_at_epoch": 1593293523.091797,
+            "last_retested_at_iso": "2020-06-27T21:32:03.091797",
             "status": "INACTIVE"
         },
         "www.patithatspartal.pro": {
             "included_at_epoch": 1588364997.0,
             "included_at_iso": "2020-05-01T20:29:57",
-            "last_retested_at_epoch": 1593119366.5756,
-            "last_retested_at_iso": "2020-06-25T21:09:26.575600",
+            "last_retested_at_epoch": 1593293594.967325,
+            "last_retested_at_iso": "2020-06-27T21:33:14.967325",
             "status": "INACTIVE"
         },
         "www.paybackall.com": {
@@ -969,15 +976,15 @@
         "www.pingclock.net": {
             "included_at_epoch": 1588364733.0,
             "included_at_iso": "2020-05-01T20:25:33",
-            "last_retested_at_epoch": 1593119467.430189,
-            "last_retested_at_iso": "2020-06-25T21:11:07.430189",
+            "last_retested_at_epoch": 1593293476.35433,
+            "last_retested_at_iso": "2020-06-27T21:31:16.354330",
             "status": "INACTIVE"
         },
         "www.preparedsrc.org": {
             "included_at_epoch": 1590616257.367518,
             "included_at_iso": "2020-05-27T21:50:57.367518",
-            "last_retested_at_epoch": 1593119311.748136,
-            "last_retested_at_iso": "2020-06-25T21:08:31.748136",
+            "last_retested_at_epoch": 1593293500.333106,
+            "last_retested_at_iso": "2020-06-27T21:31:40.333106",
             "status": "INACTIVE"
         },
         "www.primalsuper.com": {
@@ -990,15 +997,15 @@
         "www.profflinkgo.com": {
             "included_at_epoch": 1588364981.0,
             "included_at_iso": "2020-05-01T20:29:41",
-            "last_retested_at_epoch": 1593119181.034379,
-            "last_retested_at_iso": "2020-06-25T21:06:21.034379",
+            "last_retested_at_epoch": 1593293553.286077,
+            "last_retested_at_iso": "2020-06-27T21:32:33.286077",
             "status": "INACTIVE"
         },
         "www.promclickapp.biz": {
             "included_at_epoch": 1588364914.0,
             "included_at_iso": "2020-05-01T20:28:34",
-            "last_retested_at_epoch": 1593119172.407737,
-            "last_retested_at_iso": "2020-06-25T21:06:12.407737",
+            "last_retested_at_epoch": 1593293521.184091,
+            "last_retested_at_iso": "2020-06-27T21:32:01.184091",
             "status": "INACTIVE"
         },
         "www.promo-bc.com": {
@@ -1018,15 +1025,15 @@
         "www.pyorrheal708kh.xyz": {
             "included_at_epoch": 1591995433.116548,
             "included_at_iso": "2020-06-12T20:57:13.116548",
-            "last_retested_at_epoch": 1593119427.557387,
-            "last_retested_at_iso": "2020-06-25T21:10:27.557387",
+            "last_retested_at_epoch": 1593293556.322465,
+            "last_retested_at_iso": "2020-06-27T21:32:36.322465",
             "status": "INACTIVE"
         },
         "www.qnjdtefk.com": {
             "included_at_epoch": 1585739619.0,
             "included_at_iso": "2020-04-01T11:13:39",
-            "last_retested_at_epoch": 1593119377.804389,
-            "last_retested_at_iso": "2020-06-25T21:09:37.804389",
+            "last_retested_at_epoch": 1593293409.023588,
+            "last_retested_at_iso": "2020-06-27T21:30:09.023588",
             "status": "INACTIVE"
         },
         "www.reddogdangerous.com": {
@@ -1039,8 +1046,8 @@
         "www.reliablesurfingext.biz": {
             "included_at_epoch": 1588365024.0,
             "included_at_iso": "2020-05-01T20:30:24",
-            "last_retested_at_epoch": 1593119501.880707,
-            "last_retested_at_iso": "2020-06-25T21:11:41.880707",
+            "last_retested_at_epoch": 1593293779.929922,
+            "last_retested_at_iso": "2020-06-27T21:36:19.929922",
             "status": "INACTIVE"
         },
         "www.rensovetors.info": {
@@ -1053,120 +1060,120 @@
         "www.report2.biz": {
             "included_at_epoch": 1592686765.577759,
             "included_at_iso": "2020-06-20T20:59:25.577759",
-            "last_retested_at_epoch": 1593119308.394334,
-            "last_retested_at_iso": "2020-06-25T21:08:28.394334",
+            "last_retested_at_epoch": 1593293569.174043,
+            "last_retested_at_iso": "2020-06-27T21:32:49.174043",
             "status": "INACTIVE"
         },
         "www.roughted.com": {
             "included_at_epoch": 1588365028.0,
             "included_at_iso": "2020-05-01T20:30:28",
-            "last_retested_at_epoch": 1593119495.282645,
-            "last_retested_at_iso": "2020-06-25T21:11:35.282645",
+            "last_retested_at_epoch": 1593293773.922929,
+            "last_retested_at_iso": "2020-06-27T21:36:13.922929",
             "status": "INACTIVE"
         },
         "www.safecreative.biz": {
             "included_at_epoch": 1588364906.0,
             "included_at_iso": "2020-05-01T20:28:26",
-            "last_retested_at_epoch": 1593119503.232078,
-            "last_retested_at_iso": "2020-06-25T21:11:43.232078",
+            "last_retested_at_epoch": 1593293771.372151,
+            "last_retested_at_iso": "2020-06-27T21:36:11.372151",
             "status": "INACTIVE"
         },
         "www.scrlink.cool": {
             "included_at_epoch": 1588364758.0,
             "included_at_iso": "2020-05-01T20:25:58",
-            "last_retested_at_epoch": 1593119139.244005,
-            "last_retested_at_iso": "2020-06-25T21:05:39.244005",
+            "last_retested_at_epoch": 1593293748.644726,
+            "last_retested_at_iso": "2020-06-27T21:35:48.644726",
             "status": "INACTIVE"
         },
         "www.sendmepush.com": {
             "included_at_epoch": 1588364913.0,
             "included_at_iso": "2020-05-01T20:28:33",
-            "last_retested_at_epoch": 1593119326.573454,
-            "last_retested_at_iso": "2020-06-25T21:08:46.573454",
+            "last_retested_at_epoch": 1593293534.140185,
+            "last_retested_at_iso": "2020-06-27T21:32:14.140185",
             "status": "INACTIVE"
         },
         "www.simplebookmark.info": {
             "included_at_epoch": 1588364957.0,
             "included_at_iso": "2020-05-01T20:29:17",
-            "last_retested_at_epoch": 1593119149.512247,
-            "last_retested_at_iso": "2020-06-25T21:05:49.512247",
+            "last_retested_at_epoch": 1593293422.827046,
+            "last_retested_at_iso": "2020-06-27T21:30:22.827046",
             "status": "INACTIVE"
         },
         "www.sourcelog.cool": {
             "included_at_epoch": 1588365022.0,
             "included_at_iso": "2020-05-01T20:30:22",
-            "last_retested_at_epoch": 1593119458.415872,
-            "last_retested_at_iso": "2020-06-25T21:10:58.415872",
+            "last_retested_at_epoch": 1593293593.967968,
+            "last_retested_at_iso": "2020-06-27T21:33:13.967968",
             "status": "INACTIVE"
         },
         "www.sourcestars.net": {
             "included_at_epoch": 1588364694.0,
             "included_at_iso": "2020-05-01T20:24:54",
-            "last_retested_at_epoch": 1593119338.39888,
-            "last_retested_at_iso": "2020-06-25T21:08:58.398880",
+            "last_retested_at_epoch": 1593293601.344884,
+            "last_retested_at_iso": "2020-06-27T21:33:21.344884",
             "status": "INACTIVE"
         },
         "www.statcounter.biz": {
             "included_at_epoch": 1592869628.123026,
             "included_at_iso": "2020-06-22T23:47:08.123026",
-            "last_retested_at_epoch": 1593119276.06395,
-            "last_retested_at_iso": "2020-06-25T21:07:56.063950",
+            "last_retested_at_epoch": 1593293539.641875,
+            "last_retested_at_iso": "2020-06-27T21:32:19.641875",
             "status": "INACTIVE"
         },
         "www.statvalidation.website": {
             "included_at_epoch": 1588364710.0,
             "included_at_iso": "2020-05-01T20:25:10",
-            "last_retested_at_epoch": 1593119306.652262,
-            "last_retested_at_iso": "2020-06-25T21:08:26.652262",
+            "last_retested_at_epoch": 1593293638.785755,
+            "last_retested_at_iso": "2020-06-27T21:33:58.785755",
             "status": "INACTIVE"
         },
         "www.styleszelife.com": {
             "included_at_epoch": 1588364954.0,
             "included_at_iso": "2020-05-01T20:29:14",
-            "last_retested_at_epoch": 1593119306.967566,
-            "last_retested_at_iso": "2020-06-25T21:08:26.967566",
+            "last_retested_at_epoch": 1593293610.568962,
+            "last_retested_at_iso": "2020-06-27T21:33:30.568962",
             "status": "INACTIVE"
         },
         "www.subscriptions.click": {
             "included_at_epoch": 1592686720.032948,
             "included_at_iso": "2020-06-20T20:58:40.032948",
-            "last_retested_at_epoch": 1593119172.701459,
-            "last_retested_at_iso": "2020-06-25T21:06:12.701459",
+            "last_retested_at_epoch": 1593293566.182407,
+            "last_retested_at_iso": "2020-06-27T21:32:46.182407",
             "status": "INACTIVE"
         },
         "www.survivecoronavirus.org": {
             "included_at_epoch": 1588364688.0,
             "included_at_iso": "2020-05-01T20:24:48",
-            "last_retested_at_epoch": 1593119144.237876,
-            "last_retested_at_iso": "2020-06-25T21:05:44.237876",
+            "last_retested_at_epoch": 1593293664.013716,
+            "last_retested_at_iso": "2020-06-27T21:34:24.013716",
             "status": "INACTIVE"
         },
         "www.thankelse.site": {
             "included_at_epoch": 1588365029.0,
             "included_at_iso": "2020-05-01T20:30:29",
-            "last_retested_at_epoch": 1593119507.761165,
-            "last_retested_at_iso": "2020-06-25T21:11:47.761165",
+            "last_retested_at_epoch": 1593293772.531587,
+            "last_retested_at_iso": "2020-06-27T21:36:12.531587",
             "status": "INACTIVE"
         },
         "www.thatsocute.us": {
             "included_at_epoch": 1588364711.0,
             "included_at_iso": "2020-05-01T20:25:11",
-            "last_retested_at_epoch": 1593119401.900013,
-            "last_retested_at_iso": "2020-06-25T21:10:01.900013",
+            "last_retested_at_epoch": 1593293632.384401,
+            "last_retested_at_iso": "2020-06-27T21:33:52.384401",
             "status": "INACTIVE"
         },
         "www.toftothisle.info": {
             "included_at_epoch": 1588364741.0,
             "included_at_iso": "2020-05-01T20:25:41",
-            "last_retested_at_epoch": 1593119458.682804,
-            "last_retested_at_iso": "2020-06-25T21:10:58.682804",
+            "last_retested_at_epoch": 1593293501.072883,
+            "last_retested_at_iso": "2020-06-27T21:31:41.072883",
             "status": "INACTIVE"
         },
         "www.tourtodaylaboratory.com": {
             "included_at_epoch": 1588364731.0,
             "included_at_iso": "2020-05-01T20:25:31",
-            "last_retested_at_epoch": 1593119312.446076,
-            "last_retested_at_iso": "2020-06-25T21:08:32.446076",
+            "last_retested_at_epoch": 1593293562.712048,
+            "last_retested_at_iso": "2020-06-27T21:32:42.712048",
             "status": "INACTIVE"
         },
         "www.trafficpage.cool": {
@@ -1179,36 +1186,36 @@
         "www.trafficvalidation.tools": {
             "included_at_epoch": 1588364937.0,
             "included_at_iso": "2020-05-01T20:28:57",
-            "last_retested_at_epoch": 1593119366.843126,
-            "last_retested_at_iso": "2020-06-25T21:09:26.843126",
+            "last_retested_at_epoch": 1593293573.600002,
+            "last_retested_at_iso": "2020-06-27T21:32:53.600002",
             "status": "INACTIVE"
         },
         "www.trendtext.eu": {
             "included_at_epoch": 1588364943.0,
             "included_at_iso": "2020-05-01T20:29:03",
-            "last_retested_at_epoch": 1593119465.633881,
-            "last_retested_at_iso": "2020-06-25T21:11:05.633881",
+            "last_retested_at_epoch": 1593293532.014112,
+            "last_retested_at_iso": "2020-06-27T21:32:12.014112",
             "status": "INACTIVE"
         },
         "www.vabesaura.com": {
             "included_at_epoch": 1588711051.860987,
             "included_at_iso": "2020-05-05T20:37:31.860987",
-            "last_retested_at_epoch": 1593119231.741239,
-            "last_retested_at_iso": "2020-06-25T21:07:11.741239",
+            "last_retested_at_epoch": 1593293510.335075,
+            "last_retested_at_iso": "2020-06-27T21:31:50.335075",
             "status": "INACTIVE"
         },
         "www.vadalonnsotun.com": {
             "included_at_epoch": 1590439066.101386,
             "included_at_iso": "2020-05-25T20:37:46.101386",
-            "last_retested_at_epoch": 1593119170.222925,
-            "last_retested_at_iso": "2020-06-25T21:06:10.222925",
+            "last_retested_at_epoch": 1593293387.117466,
+            "last_retested_at_iso": "2020-06-27T21:29:47.117466",
             "status": "INACTIVE"
         },
         "www.vipicmou.net": {
             "included_at_epoch": 1592686815.9878,
             "included_at_iso": "2020-06-20T21:00:15.987800",
-            "last_retested_at_epoch": 1593119448.558821,
-            "last_retested_at_iso": "2020-06-25T21:10:48.558821",
+            "last_retested_at_epoch": 1593293679.192207,
+            "last_retested_at_iso": "2020-06-27T21:34:39.192207",
             "status": "INACTIVE"
         },
         "www.wbidder.online": {
@@ -1221,36 +1228,36 @@
         "www.winworker.club": {
             "included_at_epoch": 1592686720.846438,
             "included_at_iso": "2020-06-20T20:58:40.846438",
-            "last_retested_at_epoch": 1593119164.239564,
-            "last_retested_at_iso": "2020-06-25T21:06:04.239564",
+            "last_retested_at_epoch": 1593293485.287328,
+            "last_retested_at_iso": "2020-06-27T21:31:25.287328",
             "status": "INACTIVE"
         },
         "www.wwclickroot.club": {
             "included_at_epoch": 1592686696.04944,
             "included_at_iso": "2020-06-20T20:58:16.049440",
-            "last_retested_at_epoch": 1593119371.867089,
-            "last_retested_at_iso": "2020-06-25T21:09:31.867089",
+            "last_retested_at_epoch": 1593293475.997549,
+            "last_retested_at_iso": "2020-06-27T21:31:15.997549",
             "status": "INACTIVE"
         },
         "www.wwu-natwiest.com": {
             "included_at_epoch": 1588365028.0,
             "included_at_iso": "2020-05-01T20:30:28",
-            "last_retested_at_epoch": 1593119500.142573,
-            "last_retested_at_iso": "2020-06-25T21:11:40.142573",
+            "last_retested_at_epoch": 1593293774.912735,
+            "last_retested_at_iso": "2020-06-27T21:36:14.912735",
             "status": "INACTIVE"
         },
         "www.wwwp.link": {
             "included_at_epoch": 1588365029.0,
             "included_at_iso": "2020-05-01T20:30:29",
-            "last_retested_at_epoch": 1593119504.771036,
-            "last_retested_at_iso": "2020-06-25T21:11:44.771036",
+            "last_retested_at_epoch": 1593293764.915997,
+            "last_retested_at_iso": "2020-06-27T21:36:04.915997",
             "status": "INACTIVE"
         },
         "www.yourfirstcheapshop.com": {
             "included_at_epoch": 1592341977.391099,
             "included_at_iso": "2020-06-16T21:12:57.391099",
-            "last_retested_at_epoch": 1593119203.723452,
-            "last_retested_at_iso": "2020-06-25T21:06:43.723452",
+            "last_retested_at_epoch": 1593293445.989047,
+            "last_retested_at_iso": "2020-06-27T21:30:45.989047",
             "status": "INACTIVE"
         },
         "www.zief.pl": {
@@ -1263,15 +1270,15 @@
         "www.zinessprop.info": {
             "included_at_epoch": 1588364917.0,
             "included_at_iso": "2020-05-01T20:28:37",
-            "last_retested_at_epoch": 1593119192.605716,
-            "last_retested_at_iso": "2020-06-25T21:06:32.605716",
+            "last_retested_at_epoch": 1593293594.687002,
+            "last_retested_at_iso": "2020-06-27T21:33:14.687002",
             "status": "INACTIVE"
         },
         "wwwp.link": {
             "included_at_epoch": 1588365029.0,
             "included_at_iso": "2020-05-01T20:30:29",
-            "last_retested_at_epoch": 1593119504.797808,
-            "last_retested_at_iso": "2020-06-25T21:11:44.797808",
+            "last_retested_at_epoch": 1593293765.041452,
+            "last_retested_at_iso": "2020-06-27T21:36:05.041452",
             "status": "INACTIVE"
         }
     }
