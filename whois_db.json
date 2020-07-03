@@ -740,8 +740,8 @@
         "state": "future"
     },
     "golinkapp.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "googe.com": {
@@ -1007,7 +1007,7 @@
     "lokimtogo.xyz": {
         "epoch": 1593734400.0,
         "expiration_date": "03-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "lonelyfix.com": {
         "epoch": 1596844800.0,
