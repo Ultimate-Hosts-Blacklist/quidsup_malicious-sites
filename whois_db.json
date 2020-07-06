@@ -235,8 +235,8 @@
         "state": "future"
     },
     "bugdepromo.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "buycritical.com": {
@@ -380,8 +380,8 @@
         "state": "future"
     },
     "contendevff.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "cookiereports.com": {
@@ -575,14 +575,14 @@
         "state": "future"
     },
     "extcoolff.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "extcuptool.com": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "extnetcool.com": {
         "epoch": 1594252800.0,
@@ -880,8 +880,8 @@
         "state": "future"
     },
     "iubenda.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "iyfnzgb.com": {
@@ -1070,8 +1070,8 @@
         "state": "future"
     },
     "meextffcon.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
         "state": "future"
     },
     "metrext.com": {
