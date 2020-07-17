@@ -50,8 +50,8 @@
         "state": "future"
     },
     "actextdev.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "ad2up.com": {
@@ -115,8 +115,8 @@
         "state": "future"
     },
     "appmakedev.xyz": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "appslinker.net": {
@@ -230,8 +230,8 @@
         "state": "future"
     },
     "browlinkdev.xyz": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "bugdepromo.com": {
@@ -370,8 +370,8 @@
         "state": "future"
     },
     "comtakelink.xyz": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "consensu.org": {
@@ -442,6 +442,11 @@
     "cybergateway.net": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
+    "cybersecuritiesinc.net": {
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
         "state": "future"
     },
     "cybertransfer.net": {
@@ -590,8 +595,8 @@
         "state": "future"
     },
     "extnotecat.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "facebookprofileview.com": {
@@ -685,8 +690,8 @@
         "state": "future"
     },
     "getsearchgo.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "gettop.info": {
@@ -1054,6 +1059,11 @@
         "expiration_date": "08-jul-2021",
         "state": "future"
     },
+    "mailguardonline.net": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
+        "state": "future"
+    },
     "makefailed.com": {
         "epoch": 1618704000.0,
         "expiration_date": "18-apr-2021",
@@ -1105,8 +1115,8 @@
         "state": "future"
     },
     "mixappdev.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "mobiclean.xyz": {
@@ -1275,8 +1285,8 @@
         "state": "future"
     },
     "packsonikolas.info": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "pageanalytics.space": {
@@ -1900,8 +1910,8 @@
         "state": "future"
     },
     "workdevapp.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "worksrc.cool": {
