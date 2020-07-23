@@ -245,8 +245,8 @@
         "state": "future"
     },
     "caplinkff.com": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "captiontxt.com": {
@@ -492,7 +492,7 @@
     "devappstor.com": {
         "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "digitaloptout.com": {
         "epoch": 1654300800.0,
@@ -790,9 +790,9 @@
         "state": "future"
     },
     "healthandfitnessus.com": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
-        "state": "past"
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "state": "future"
     },
     "hemailaccessonline.com": {
         "epoch": 1623024000.0,
