@@ -20,11 +20,11 @@
             "up": 0,
             "valid": 0
         },
-        "domains.list": 367,
+        "domains.list": 368,
         "volatile.list": 623,
         "whitelisted.list": 623
     },
     "raw_link": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt",
-    "start_datetime": "2020-08-15T20:52:56.058500",
-    "start_epoch": 1597524776.0585
+    "start_datetime": "2020-08-17T21:22:44.412425",
+    "start_epoch": 1597699364.412425
 }

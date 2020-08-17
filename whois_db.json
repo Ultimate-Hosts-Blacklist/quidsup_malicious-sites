@@ -1505,8 +1505,8 @@
         "state": "future"
     },
     "reauthenticator.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "reddogdangerous.com": {
@@ -1590,8 +1590,8 @@
         "state": "future"
     },
     "securestudies.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
         "state": "future"
     },
     "securesurf.biz": {
@@ -1692,6 +1692,11 @@
     "statvalidation.website": {
         "epoch": 1621123200.0,
         "expiration_date": "16-may-2021",
+        "state": "future"
+    },
+    "stoneshards.ru": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "storysrc.com": {
