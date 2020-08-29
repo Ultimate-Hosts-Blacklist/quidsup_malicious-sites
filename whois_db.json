@@ -1272,7 +1272,7 @@
     "osdrivers.win": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "outsource.cool": {
         "epoch": 1602201600.0,
