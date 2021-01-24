@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/quidsup_malicious-sites/quidsup_malicious-sites/domains.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "af486bc373189bb71f90995b63595701c0e79d41d059ed27b3f8d3cc",
+    "line_number": 831,
+    "output_dir": "/home/runner/work/quidsup_malicious-sites/quidsup_malicious-sites/output/domains.list",
+    "previous_hash": "af486bc373189bb71f90995b63595701c0e79d41d059ed27b3f8d3cc",
+    "rel_source": "domains.list",
+    "session_id": "51ea8557f289ebcef7fce43f",
+    "source": "/home/runner/work/quidsup_malicious-sites/quidsup_malicious-sites/domains.list",
+    "subject": "/home/runner/work/quidsup_malicious-sites/quidsup_malicious-sites/domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
