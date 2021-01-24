@@ -1,9 +1,9 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "custom_pyfunceble_config": {},
     "days_until_next_test": 2,
-    "end_datetime": "2020-03-03T19:47:35.737282",
-    "end_epoch": 1583091161.781642,
+    "end_datetime": "2021-01-24T11:22:26.549673",
+    "end_epoch": 1611487346.549673,
     "issue_link": "https://gitlab.com/quidsup/notrack-blocklists/-/issues/new",
     "link": "https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt",
     "name": "quidsup_malicious-sites",
