@@ -1,0 +1,13 @@
+{
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "a4e0e70e8c696aaa372886e20b849c60ddedb3ab0c561bd87d4a1140",
+    "line_number": 722,
+    "output_dir": "/home/runner/work/quidsup_malicious-sites/quidsup_malicious-sites/output/domains.list",
+    "previous_hash": "a4e0e70e8c696aaa372886e20b849c60ddedb3ab0c561bd87d4a1140",
+    "session_id": "045d849589d68d0171e681ce",
+    "source": "domains.list",
+    "subject": "domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
