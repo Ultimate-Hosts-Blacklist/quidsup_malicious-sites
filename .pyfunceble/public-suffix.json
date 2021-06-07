@@ -1487,7 +1487,6 @@
         "blogspot.de",
         "bplaced.de",
         "com.de",
-        "community-pro.de",
         "customer.speedpartner.de",
         "dd-dns.de",
         "ddnss.de",
@@ -4473,6 +4472,7 @@
         "yuza.yamagata.jp",
         "yuzawa.niigata.jp",
         "zama.kanagawa.jp",
+        "zamami.okinawa.jp",
         "zao.miyagi.jp",
         "zentsuji.kagawa.jp",
         "zushi.kanagawa.jp",
@@ -4892,8 +4892,7 @@
         "gov.ml",
         "net.ml",
         "org.ml",
-        "presse.ml",
-        "zamami.okinawa.jp"
+        "presse.ml"
     ],
     "mm": [
         "mm"
@@ -6773,6 +6772,7 @@
         "org.nr"
     ],
     "nu": [
+        "community-pro.de",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
