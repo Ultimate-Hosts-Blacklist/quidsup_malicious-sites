@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-api.internetinterop.com,AVAILABILITY,domains.list,2021-10-12 06:01:56.155355
-api.processformat.com,AVAILABILITY,domains.list,2021-10-12 06:01:59.756752
-api.publicanalyser.com,AVAILABILITY,domains.list,2021-10-12 06:02:00.260956
-api.resultsformat.com,AVAILABILITY,domains.list,2021-10-12 06:02:00.800655
 goodluckguy.space,AVAILABILITY,domains.list,2021-10-13 05:49:47.252634
 goodluckpig.space,AVAILABILITY,domains.list,2021-10-13 05:49:47.732488
 instagramc.om,AVAILABILITY,domains.list,2021-10-13 05:49:48.212334
@@ -169,3 +165,7 @@ api.browserinterop.com,AVAILABILITY,domains.list,2021-10-13 05:51:23.225620
 api.commonprocesser.com,AVAILABILITY,domains.list,2021-10-13 05:51:26.783042
 api.futuristmac.com,AVAILABILITY,domains.list,2021-10-13 05:51:27.372936
 api.highsecuritymac.com,AVAILABILITY,domains.list,2021-10-13 05:51:30.940296
+api.internetinterop.com,AVAILABILITY,domains.list,2021-10-14 02:39:01.784095
+api.processformat.com,AVAILABILITY,domains.list,2021-10-14 02:39:02.318264
+api.publicanalyser.com,AVAILABILITY,domains.list,2021-10-14 02:39:02.817983
+api.resultsformat.com,AVAILABILITY,domains.list,2021-10-14 02:39:03.324978
