@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-api.highsecuritymac.com,AVAILABILITY,domains.list,2021-11-01 08:54:04.621043
 googlec.om,AVAILABILITY,domains.list,2021-11-02 08:48:12.744542
 api.internetinterop.com,AVAILABILITY,domains.list,2021-11-02 11:43:30.506485
 api.processformat.com,AVAILABILITY,domains.list,2021-11-02 11:43:31.829818
@@ -166,3 +165,4 @@ api.basicinitiator.com,AVAILABILITY,domains.list,2021-11-02 11:50:10.131514
 api.browserinterop.com,AVAILABILITY,domains.list,2021-11-02 11:50:11.221308
 api.commonprocesser.com,AVAILABILITY,domains.list,2021-11-02 11:50:12.472413
 api.futuristmac.com,AVAILABILITY,domains.list,2021-11-02 11:50:13.507047
+api.highsecuritymac.com,AVAILABILITY,domains.list,2021-11-02 11:51:27.724389
