@@ -1391,7 +1391,6 @@
         "stackhero-network.com",
         "static.observableusercontent.com",
         "stufftoread.com",
-        "teaches-yoga.com",
         "temp-dns.com",
         "theworkpc.com",
         "thingdustdata.com",
@@ -5730,7 +5729,6 @@
         "kinghost.net",
         "knx-server.net",
         "krellian.net",
-        "kurgan.su",
         "lon-1.paas.massivegrid.net",
         "lon-2.paas.massivegrid.net",
         "map.fastly.net",
@@ -6819,7 +6817,8 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "shacknet.nu"
+        "shacknet.nu",
+        "teaches-yoga.com"
     ],
     "nz": [
         "ac.nz",
@@ -7795,6 +7794,7 @@
         "karelia.su",
         "khakassia.su",
         "krasnodar.su",
+        "kurgan.su",
         "kustanai.su",
         "lenug.su",
         "mangyshlak.su",
