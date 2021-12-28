@@ -3898,6 +3898,7 @@
         "otofuke.hokkaido.jp",
         "otoineppu.hokkaido.jp",
         "otoyo.kochi.jp",
+        "otsu.shiga.jp",
         "otsuchi.iwate.jp",
         "otsuki.kochi.jp",
         "otsuki.yamanashi.jp",
@@ -4623,7 +4624,8 @@
         "prd.km",
         "presse.km",
         "tm.km",
-        "veterinaire.km"
+        "veterinaire.km",
+        "yaizu.shizuoka.jp"
     ],
     "kn": [
         "edu.kn",
@@ -5214,6 +5216,7 @@
         "guernsey.museum",
         "halloffame.museum",
         "hamburg.museum",
+        "hammarfeasta.no",
         "handson.museum",
         "harvestcelebration.museum",
         "hawaii.museum",
@@ -5364,7 +5367,6 @@
         "oregon.museum",
         "oregontrail.museum",
         "otago.museum",
-        "otsu.shiga.jp",
         "oxford.museum",
         "pacific.museum",
         "paderborn.museum",
