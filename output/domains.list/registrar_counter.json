@@ -1,16 +1,16 @@
 {
     "counter": {
         "Abu Ghazaleh Intellectual Property (AGIP)": 1,
-        "NameCheap, Inc.": 3,
+        "NameCheap, Inc.": 7,
         "Namecheap": 1,
         "Oman Data Park LLC (ODP)": 1,
-        "total": 6
+        "total": 10
     },
     "percentage": {
-        "Abu Ghazaleh Intellectual Property (AGIP)": 16.666666666666668,
-        "NameCheap, Inc.": 50.0,
-        "Namecheap": 16.666666666666668,
-        "Oman Data Park LLC (ODP)": 16.666666666666668,
-        "total": 100.00000000000001
+        "Abu Ghazaleh Intellectual Property (AGIP)": 10.0,
+        "NameCheap, Inc.": 70.0,
+        "Namecheap": 10.0,
+        "Oman Data Park LLC (ODP)": 10.0,
+        "total": 100.0
     }
 }
