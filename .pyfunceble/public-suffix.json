@@ -1384,6 +1384,7 @@
         "siiites.com",
         "simple-url.com",
         "sinaapp.com",
+        "site.tb-hosting.com",
         "skygearapp.com",
         "smushcdn.com",
         "space-to-rent.com",
@@ -1612,7 +1613,6 @@
     ],
     "dk": [
         "biz.dk",
-        "blogspot.dk",
         "co.dk",
         "firm.dk",
         "myspreadshop.dk",
@@ -4688,7 +4688,6 @@
     "ky": [
         "com.ky",
         "edu.ky",
-        "gov.ky",
         "net.ky",
         "org.ky"
     ],
@@ -6815,6 +6814,7 @@
         "org.nr"
     ],
     "nu": [
+        "blogspot.dk",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
@@ -7057,6 +7057,7 @@
         "sld.pa"
     ],
     "page": [
+        "codeberg.page",
         "hlx.page",
         "hlx3.page",
         "magnet.page",
@@ -7963,6 +7964,7 @@
         "nc.tr",
         "net.tr",
         "org.tr",
+        "org.zw",
         "pol.tr",
         "tel.tr",
         "tsk.tr",
