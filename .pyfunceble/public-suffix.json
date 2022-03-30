@@ -7412,6 +7412,7 @@
         "szczecin.pl",
         "szczytno.pl",
         "szkola.pl",
+        "targi.pl",
         "tarnobrzeg.pl",
         "tgory.pl",
         "tm.pl",
@@ -7699,8 +7700,7 @@
         "edu.sc",
         "gov.sc",
         "net.sc",
-        "org.sc",
-        "targi.pl"
+        "org.sc"
     ],
     "science": [
         "ybo.science"
