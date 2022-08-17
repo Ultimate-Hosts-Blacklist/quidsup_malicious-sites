@@ -1,0 +1,20 @@
+{
+    "counter": {
+        "NETIM sarl": 1,
+        "Namecheap": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 3,
+        "REGISTRAR OF DOMAIN NAMES REG.RU LLC": 4,
+        "Regional Network Information Center, JSC dba RU-CENTER": 1,
+        "Registrar of Domain Names REG.RU LLC": 1,
+        "total": 12
+    },
+    "percentage": {
+        "NETIM sarl": 8.333333333333334,
+        "Namecheap": 16.666666666666668,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 25.0,
+        "REGISTRAR OF DOMAIN NAMES REG.RU LLC": 33.333333333333336,
+        "Regional Network Information Center, JSC dba RU-CENTER": 8.333333333333334,
+        "Registrar of Domain Names REG.RU LLC": 8.333333333333334,
+        "total": 100.0
+    }
+}
