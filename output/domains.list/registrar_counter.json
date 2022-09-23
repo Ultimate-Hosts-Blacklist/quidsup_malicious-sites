@@ -1,0 +1,14 @@
+{
+    "counter": {
+        "NETIM": 1,
+        "NETIM SARL": 1,
+        "NETIM sarl": 1,
+        "total": 3
+    },
+    "percentage": {
+        "NETIM": 33.333333333333336,
+        "NETIM SARL": 33.333333333333336,
+        "NETIM sarl": 33.333333333333336,
+        "total": 100.0
+    }
+}
