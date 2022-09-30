@@ -1,0 +1,18 @@
+{
+    "counter": {
+        "NICENIC INTERNATIONAL GROUP CO., LIMITED": 2,
+        "Porkbun LLC": 1,
+        "REGISTRAR OF DOMAIN NAMES REG.RU LLC": 2,
+        "Registrar of Domain Names REG.RU LLC": 3,
+        "Tucows Domains Inc.": 1,
+        "total": 9
+    },
+    "percentage": {
+        "NICENIC INTERNATIONAL GROUP CO., LIMITED": 22.22222222222222,
+        "Porkbun LLC": 11.11111111111111,
+        "REGISTRAR OF DOMAIN NAMES REG.RU LLC": 22.22222222222222,
+        "Registrar of Domain Names REG.RU LLC": 33.333333333333336,
+        "Tucows Domains Inc.": 11.11111111111111,
+        "total": 100.0
+    }
+}
