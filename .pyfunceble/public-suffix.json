@@ -503,6 +503,7 @@
         "ap.gov.br",
         "ap.leg.br",
         "aparecida.br",
+        "app.br",
         "arq.br",
         "art.br",
         "ato.br",
@@ -709,7 +710,6 @@
         "org.bw"
     ],
     "by": [
-        "app.br",
         "blogspot.com.by",
         "com.by",
         "gov.by",
@@ -1879,7 +1879,8 @@
         "edu.fm",
         "net.fm",
         "org.fm",
-        "radio.fm"
+        "radio.fm",
+        "user.fm"
     ],
     "fr": [
         "aeroport.fr",
@@ -7348,7 +7349,6 @@
         "fam.pk",
         "gob.pk",
         "gok.pk",
-        "gon.pk",
         "gop.pk",
         "gos.pk",
         "gov.pk",
@@ -7899,6 +7899,7 @@
         "com.sg",
         "edu.sg",
         "enscaled.sg",
+        "gon.pk",
         "gov.sg",
         "net.sg",
         "org.sg",
@@ -8748,7 +8749,6 @@
     "vu": [
         "blog.vu",
         "cn.vu",
-        "com.vu",
         "dev.vu",
         "edu.vu",
         "me.vu",
@@ -8782,6 +8782,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--o3cw4h": [
+        "com.vu",
+        "xn--12cfi8ixb8l.xn--o3cw4h"
     ],
     "xyz": [
         "blogsite.xyz",
