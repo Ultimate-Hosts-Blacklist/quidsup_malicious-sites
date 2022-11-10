@@ -484,8 +484,7 @@
         "tksat.bo",
         "transporte.bo",
         "tv.bo",
-        "web.bo",
-        "wiki.bo"
+        "web.bo"
     ],
     "br": [
         "9guacu.br",
@@ -936,6 +935,7 @@
         "sx.cn",
         "tj.cn",
         "tw.cn",
+        "wiki.bo",
         "xj.cn",
         "xn--55qx5d.cn",
         "xn--io0a7i.cn",
@@ -2917,7 +2917,6 @@
         "aoki.nagano.jp",
         "aomori.aomori.jp",
         "aomori.jp",
-        "app.os.fedoraproject.org",
         "arai.shizuoka.jp",
         "arakawa.saitama.jp",
         "arakawa.tokyo.jp",
@@ -7101,6 +7100,7 @@
         "ae.org",
         "al.eu.org",
         "altervista.org",
+        "app.os.fedoraproject.org",
         "app.os.stg.fedoraproject.org",
         "asso.eu.org",
         "at.eu.org",
