@@ -1,11 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-netcomfort.org,AVAILABILITY,domains.list,2023-04-02 04:01:17.803955
-linkedinc.om,AVAILABILITY,domains.list,2023-04-02 04:01:18.514741
-office365.om,AVAILABILITY,domains.list,2023-04-02 04:01:19.258774
-realtor.om,AVAILABILITY,domains.list,2023-04-02 04:01:19.917208
-rediff.om,AVAILABILITY,domains.list,2023-04-02 04:01:20.358096
-rr.om,AVAILABILITY,domains.list,2023-04-02 04:01:21.051023
-samsung.om,AVAILABILITY,domains.list,2023-04-02 04:01:21.418520
 skype.om,AVAILABILITY,domains.list,2023-04-03 08:32:46.156437
 thatsocute.us,AVAILABILITY,domains.list,2023-04-03 08:32:46.536660
 sohu.om,AVAILABILITY,domains.list,2023-04-03 08:32:46.937240
@@ -140,3 +133,10 @@ gnc.om,AVAILABILITY,domains.list,2023-04-03 08:34:42.758216
 hmrc-cov19.payment.estrodev.com,AVAILABILITY,domains.list,2023-04-03 08:34:43.120336
 hostingcloud.download,AVAILABILITY,domains.list,2023-04-03 08:34:43.516753
 jshosting.racing,AVAILABILITY,domains.list,2023-04-03 08:34:43.893620
+netcomfort.org,AVAILABILITY,domains.list,2023-04-03 08:40:48.961868
+linkedinc.om,AVAILABILITY,domains.list,2023-04-03 08:40:54.764680
+office365.om,AVAILABILITY,domains.list,2023-04-03 08:40:56.773889
+realtor.om,AVAILABILITY,domains.list,2023-04-03 08:40:58.556402
+rediff.om,AVAILABILITY,domains.list,2023-04-03 08:40:59.406682
+rr.om,AVAILABILITY,domains.list,2023-04-03 08:41:10.151687
+samsung.om,AVAILABILITY,domains.list,2023-04-03 08:41:12.708147
