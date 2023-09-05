@@ -1,0 +1,20 @@
+{
+    "counter": {
+        "NICENIC INTERNATIONAL GROUP CO., LIMITED": 14,
+        "NameSilo, LLC": 6,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
+        "Registrar of Domain Names REG.RU LLC": 2,
+        "Registrar of Domain Names REG.RU, LLC": 4,
+        "Tucows Domains Inc.": 2,
+        "total": 32
+    },
+    "percentage": {
+        "NICENIC INTERNATIONAL GROUP CO., LIMITED": 43.75,
+        "NameSilo, LLC": 18.75,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 12.5,
+        "Registrar of Domain Names REG.RU LLC": 6.25,
+        "Registrar of Domain Names REG.RU, LLC": 12.5,
+        "Tucows Domains Inc.": 6.25,
+        "total": 100.0
+    }
+}
