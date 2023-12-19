@@ -1,8 +1,8 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2023-12-18T07:36:39.558770",
-    "end_epoch": 1702884999.55877,
+    "end_datetime": "2023-12-19T02:56:05.590199",
+    "end_epoch": 1702954565.590199,
     "issue_link": "https://gitlab.com/quidsup/notrack-blocklists/-/issues/new",
     "link": "https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/malware.list",
     "name": "quidsup_malicious-sites",
