@@ -1,10 +1,44 @@
 {
     "counter": {
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
-        "total": 4
+        "101domain GRS Limited": 4,
+        "Abu Ghazaleh Intellectual Property (AGIP)": 2,
+        "Danesco Trading Ltd.": 2,
+        "Domain.com, LLC": 2,
+        "Go Daddy, LLC": 2,
+        "GoDaddy.com, LLC": 10,
+        "Google LLC": 2,
+        "NETIM": 2,
+        "NICENIC INTERNATIONAL GROUP CO., LIMITED": 20,
+        "NameCheap, Inc.": 26,
+        "PDR Ltd.": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 12,
+        "Porkbun LLC": 2,
+        "REGISTRAR OF DOMAIN NAMES REG.RU LLC": 26,
+        "Regional Network Information Center, JSC dba RU-CENTER": 8,
+        "Registrar of Domain Names REG.RU LLC": 42,
+        "Registrar of Domain Names REG.RU, LLC": 4,
+        "Tucows Domains Inc.": 6,
+        "total": 174
     },
     "percentage": {
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 100.0,
-        "total": 100.0
+        "101domain GRS Limited": 2.2988505747126435,
+        "Abu Ghazaleh Intellectual Property (AGIP)": 1.1494252873563218,
+        "Danesco Trading Ltd.": 1.1494252873563218,
+        "Domain.com, LLC": 1.1494252873563218,
+        "Go Daddy, LLC": 1.1494252873563218,
+        "GoDaddy.com, LLC": 5.747126436781609,
+        "Google LLC": 1.1494252873563218,
+        "NETIM": 1.1494252873563218,
+        "NICENIC INTERNATIONAL GROUP CO., LIMITED": 11.494252873563218,
+        "NameCheap, Inc.": 14.942528735632184,
+        "PDR Ltd.": 1.1494252873563218,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 6.896551724137931,
+        "Porkbun LLC": 1.1494252873563218,
+        "REGISTRAR OF DOMAIN NAMES REG.RU LLC": 14.942528735632184,
+        "Regional Network Information Center, JSC dba RU-CENTER": 4.597701149425287,
+        "Registrar of Domain Names REG.RU LLC": 24.137931034482758,
+        "Registrar of Domain Names REG.RU, LLC": 2.2988505747126435,
+        "Tucows Domains Inc.": 3.4482758620689653,
+        "total": 100.00000000000001
     }
 }
