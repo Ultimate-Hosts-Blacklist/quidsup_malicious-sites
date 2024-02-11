@@ -1,12 +1,12 @@
 {
     "counter": {
         "Abu Ghazaleh Intellectual Property (AGIP)": 2,
-        "Oman Data Park LLC (ODP)": 8,
-        "total": 10
+        "Oman Data Park LLC (ODP)": 12,
+        "total": 14
     },
     "percentage": {
-        "Abu Ghazaleh Intellectual Property (AGIP)": 20.0,
-        "Oman Data Park LLC (ODP)": 80.0,
+        "Abu Ghazaleh Intellectual Property (AGIP)": 14.285714285714286,
+        "Oman Data Park LLC (ODP)": 85.71428571428571,
         "total": 100.0
     }
 }
