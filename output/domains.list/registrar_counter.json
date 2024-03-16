@@ -1,0 +1,12 @@
+{
+    "counter": {
+        "NameCheap, Inc.": 4,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "total": 6
+    },
+    "percentage": {
+        "NameCheap, Inc.": 66.66666666666667,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 33.333333333333336,
+        "total": 100.0
+    }
+}
