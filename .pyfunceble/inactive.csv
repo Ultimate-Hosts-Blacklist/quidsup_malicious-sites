@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-hostingcloud.science,AVAILABILITY,domains.list,2024-03-27 11:46:15.120831
-lucretius-ada.com,AVAILABILITY,domains.list,2024-03-27 11:46:15.596109
-nvidiacenter.com,AVAILABILITY,domains.list,2024-03-27 11:49:32.634538
-www.96.lt,AVAILABILITY,domains.list,2024-03-27 11:49:53.245184
-www.imgfarm.com,AVAILABILITY,domains.list,2024-03-27 11:49:54.114104
-www.ironbeast.io,AVAILABILITY,domains.list,2024-03-27 11:49:55.056924
 www.lalaping.com,AVAILABILITY,domains.list,2024-03-27 11:50:00.904426
 www.linkedinc.om,AVAILABILITY,domains.list,2024-03-27 11:50:01.596755
 www.mikiloise.org,AVAILABILITY,domains.list,2024-03-27 11:50:03.026155
@@ -101,3 +95,9 @@ www.gnc.om,AVAILABILITY,domains.list,2024-03-27 11:52:27.320974
 www.gusimp.net,AVAILABILITY,domains.list,2024-03-27 11:52:27.986652
 www.googlec.om,AVAILABILITY,domains.list,2024-03-27 11:52:30.344461
 zief.pl,AVAILABILITY,domains.list,2024-03-28 11:44:57.797492
+hostingcloud.science,AVAILABILITY,domains.list,2024-03-29 11:44:46.372772
+lucretius-ada.com,AVAILABILITY,domains.list,2024-03-29 11:44:46.954635
+nvidiacenter.com,AVAILABILITY,domains.list,2024-03-29 11:44:47.557252
+www.96.lt,AVAILABILITY,domains.list,2024-03-29 11:45:01.502558
+www.imgfarm.com,AVAILABILITY,domains.list,2024-03-29 11:45:02.381343
+www.ironbeast.io,AVAILABILITY,domains.list,2024-03-29 11:45:06.056844
