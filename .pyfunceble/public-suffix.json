@@ -980,7 +980,6 @@
         "magentosite.cloud",
         "matlab.cloud",
         "nl-ams-1.baremetal.scw.cloud",
-        "nodes.k8s.fr-par.scw.cloud",
         "nodes.k8s.nl-ams.scw.cloud",
         "nodes.k8s.pl-waw.scw.cloud",
         "observablehq.cloud",
@@ -1249,7 +1248,6 @@
         "blogdns.com",
         "blogspot.com",
         "blogsyte.com",
-        "bloxcms.com",
         "boutir.com",
         "bplaced.com",
         "br.com",
@@ -1281,7 +1279,6 @@
         "dattolocal.com",
         "dattorelay.com",
         "dattoweb.com",
-        "ddns5.com",
         "ddnsfree.com",
         "ddnsgeek.com",
         "ddnsking.com",
@@ -7290,6 +7287,7 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
+        "nodes.k8s.fr-par.scw.cloud",
         "shacknet.nu"
     ],
     "nz": [
