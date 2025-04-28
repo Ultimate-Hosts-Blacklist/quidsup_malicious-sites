@@ -2791,6 +2791,7 @@
         "idv.hk",
         "inc.hk",
         "ltd.hk",
+        "mil.kr",
         "net.hk",
         "org.hk",
         "xn--55qx5d.hk",
@@ -2920,7 +2921,6 @@
         "or.id",
         "ponpes.id",
         "sch.id",
-        "srht.site",
         "web.id",
         "zone.id"
     ],
@@ -5693,7 +5693,6 @@
         "jeonnam.kr",
         "kg.kr",
         "me.kr",
-        "mil.kr",
         "mmv.kr",
         "ms.kr",
         "ne.kr",
@@ -8212,6 +8211,7 @@
         "platformsh.site",
         "preview.site",
         "square.site",
+        "srht.site",
         "tst.site",
         "wpsquared.site"
     ],
