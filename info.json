@@ -1,19 +1,19 @@
 {
     "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2025-07-23T03:24:10.340399",
-    "end_epoch": 1753241050.340399,
+    "end_datetime": "2025-07-24T03:26:42.623585",
+    "end_epoch": 1753327602.623585,
     "issue_link": "https://gitlab.com/quidsup/notrack-blocklists/-/issues/new",
     "link": "https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/malware.list",
     "name": "quidsup_malicious-sites",
-    "previous_end_datetime": "2025-07-22T03:25:20.030432",
-    "previous_end_epoch": 1753154720.030432,
-    "previous_start_datetime": "2025-07-22T03:21:27.939919",
-    "previous_start_epoch": 1753154487.939919,
+    "previous_end_datetime": "2025-07-23T03:24:10.340399",
+    "previous_end_epoch": 1753241050.340399,
+    "previous_start_datetime": "2025-07-23T03:21:29.850356",
+    "previous_start_epoch": 1753240889.850356,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/malware.list",
-    "start_datetime": "2025-07-23T03:21:29.850356",
-    "start_epoch": 1753240889.850356
+    "start_datetime": "2025-07-24T03:22:02.625335",
+    "start_epoch": 1753327322.625335
 }
