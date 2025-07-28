@@ -5,20 +5,20 @@
         "Go Daddy, LLC": 2,
         "GoDaddy.com, LLC": 2,
         "NICENIC INTERNATIONAL GROUP CO., LIMITED": 2,
-        "NameCheap, Inc.": 10,
+        "NameCheap, Inc.": 8,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 4,
         "Tucows Domains Inc.": 2,
-        "total": 26
+        "total": 24
     },
     "percentage": {
-        "101domain GRS Limited": 7.6923076923076925,
-        "Abu Ghazaleh Intellectual Property (AGIP)": 7.6923076923076925,
-        "Go Daddy, LLC": 7.6923076923076925,
-        "GoDaddy.com, LLC": 7.6923076923076925,
-        "NICENIC INTERNATIONAL GROUP CO., LIMITED": 7.6923076923076925,
-        "NameCheap, Inc.": 38.46153846153846,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 15.384615384615385,
-        "Tucows Domains Inc.": 7.6923076923076925,
+        "101domain GRS Limited": 8.333333333333334,
+        "Abu Ghazaleh Intellectual Property (AGIP)": 8.333333333333334,
+        "Go Daddy, LLC": 8.333333333333334,
+        "GoDaddy.com, LLC": 8.333333333333334,
+        "NICENIC INTERNATIONAL GROUP CO., LIMITED": 8.333333333333334,
+        "NameCheap, Inc.": 33.333333333333336,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 16.666666666666668,
+        "Tucows Domains Inc.": 8.333333333333334,
         "total": 100.0
     }
 }
