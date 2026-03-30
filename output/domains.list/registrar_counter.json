@@ -1,8 +1,8 @@
 {
     "counter": {
         "Cloudflare, Inc.": 2,
-        "Communigal Communications Ltd": 2,
         "Dynadot Inc": 12,
+        "Dynadot LLC": 2,
         "Gandi SAS": 4,
         "Gname.com Pte. Ltd.": 2,
         "GoDaddy": 2,
@@ -23,8 +23,8 @@
     },
     "percentage": {
         "Cloudflare, Inc.": 2.9411764705882355,
-        "Communigal Communications Ltd": 2.9411764705882355,
         "Dynadot Inc": 17.647058823529413,
+        "Dynadot LLC": 2.9411764705882355,
         "Gandi SAS": 5.882352941176471,
         "Gname.com Pte. Ltd.": 2.9411764705882355,
         "GoDaddy": 2.9411764705882355,
