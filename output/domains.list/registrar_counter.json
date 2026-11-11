@@ -1,7 +1,7 @@
 {
     "counter": {
         "Cloudflare, Inc.": 2,
-        "Dynadot Inc": 8,
+        "Dynadot Inc": 10,
         "Dynadot LLC": 2,
         "GMO Internet Group, Inc. d/b/a Onamae.com": 4,
         "Gandi SAS": 2,
@@ -13,7 +13,6 @@
         "MarkMonitor Inc.": 4,
         "NameCheap, Inc.": 8,
         "Namecheap": 2,
-        "OVH": 2,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
         "TLD Registrar Solutions Ltd": 2,
         "URL Solutions Inc.": 2,
@@ -23,7 +22,7 @@
     },
     "percentage": {
         "Cloudflare, Inc.": 3.4482758620689653,
-        "Dynadot Inc": 13.793103448275861,
+        "Dynadot Inc": 17.24137931034483,
         "Dynadot LLC": 3.4482758620689653,
         "GMO Internet Group, Inc. d/b/a Onamae.com": 6.896551724137931,
         "Gandi SAS": 3.4482758620689653,
@@ -35,12 +34,11 @@
         "MarkMonitor Inc.": 6.896551724137931,
         "NameCheap, Inc.": 13.793103448275861,
         "Namecheap": 3.4482758620689653,
-        "OVH": 3.4482758620689653,
         "PDR Ltd. d/b/a PublicDomainRegistry.com": 3.4482758620689653,
         "TLD Registrar Solutions Ltd": 3.4482758620689653,
         "URL Solutions Inc.": 3.4482758620689653,
         "Web Commerce Communications Limited": 3.4482758620689653,
-        "total": 100.00000000000001,
+        "total": 100.00000000000003,
         "阿里云计算有限公司（万网）": 3.4482758620689653
     }
 }
